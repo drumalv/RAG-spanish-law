@@ -1,0 +1,1862 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.16)  25 APR 2024 20:29
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./memoria.tex
+(memoria.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+(class_diss.cls
+Document Class: class_diss 1999/09/10 v1.4a Standard LaTeX document class
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+LaTeX Font Info:    Changing ? sub-encoding to TS1/0 on input line 78.
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip50
+For additional information on amsmath, use the `?' option.
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen143
+))
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen144
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count194
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count195
+\leftroot@=\count196
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count197
+\DOTSCASE@=\count198
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen145
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count199
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count266
+\dotsspace@=\muskip16
+\c@parentequation=\count267
+\dspbrk@lvl=\count268
+\tag@help=\toks19
+\row@=\count269
+\column@=\count270
+\maxfields@=\count271
+\andhelp@=\toks20
+\eqnshift@=\dimen146
+\alignsep@=\dimen147
+\tagshift@=\dimen148
+\tagwidth@=\dimen149
+\totwidth@=\dimen150
+\lineht@=\dimen151
+\@envbody=\toks21
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsxtra.sty
+Package: amsxtra 1999/11/15 v1.2c AMS extra commands
+LaTeX Info: Redefining \nobreakspace on input line 54.
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks23
+\thm@bodyfont=\toks24
+\thm@headfont=\toks25
+\thm@notefont=\toks26
+\thm@headpunct=\toks27
+\thm@preskip=\skip53
+\thm@postskip=\skip54
+\thm@headsep=\skip55
+\dth@everypar=\toks28
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/base\latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count272
+\Gm@cntv=\count273
+\c@Gm@tempcnt=\count274
+\Gm@bindingoffset=\dimen152
+\Gm@wd@mp=\dimen153
+\Gm@odd@mp=\dimen154
+\Gm@even@mp=\dimen155
+\Gm@layoutwidth=\dimen156
+\Gm@layoutheight=\dimen157
+\Gm@layouthoffset=\dimen158
+\Gm@layoutvoffset=\dimen159
+\Gm@dimlist=\toks29
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip56
+\cftbeforetoctitleskip=\skip57
+\cftaftertoctitleskip=\skip58
+\cftbeforepartskip=\skip59
+\cftpartnumwidth=\skip60
+\cftpartindent=\skip61
+\cftbeforechapskip=\skip62
+\cftchapindent=\skip63
+\cftchapnumwidth=\skip64
+\cftbeforesecskip=\skip65
+\cftsecindent=\skip66
+\cftsecnumwidth=\skip67
+\cftbeforesubsecskip=\skip68
+\cftsubsecindent=\skip69
+\cftsubsecnumwidth=\skip70
+\cftbeforesubsubsecskip=\skip71
+\cftsubsubsecindent=\skip72
+\cftsubsubsecnumwidth=\skip73
+\cftbeforeparaskip=\skip74
+\cftparaindent=\skip75
+\cftparanumwidth=\skip76
+\cftbeforesubparaskip=\skip77
+\cftsubparaindent=\skip78
+\cftsubparanumwidth=\skip79
+\cftbeforeloftitleskip=\skip80
+\cftafterloftitleskip=\skip81
+\cftbeforefigskip=\skip82
+\cftfigindent=\skip83
+\cftfignumwidth=\skip84
+\c@lofdepth=\count275
+\c@lotdepth=\count276
+\cftbeforelottitleskip=\skip85
+\cftafterlottitleskip=\skip86
+\cftbeforetabskip=\skip87
+\cfttabindent=\skip88
+\cfttabnumwidth=\skip89
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip90
+\f@nch@O@elh=\skip91
+\f@nch@O@erh=\skip92
+\f@nch@O@olh=\skip93
+\f@nch@O@orh=\skip94
+\f@nch@O@elf=\skip95
+\f@nch@O@erf=\skip96
+\f@nch@O@olf=\skip97
+\f@nch@O@orf=\skip98
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/emptypage\emptypage.sty
+Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty 
+pages
+) (C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Package option `usenames' ignored on input line 218.
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen160
+\ar@mcellbox=\box53
+\extrarowheight=\dimen161
+\NC@list=\toks30
+\extratabsurround=\skip99
+\backup@length=\skip100
+\ar@cellbox=\box54
+)
+\everycr=\toks31
+\minrowclearance=\skip101
+\rownum=\count277
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\svgnam.def
+File: svgnam.def 2022/06/12 v2.14 Predefined colors according to SVG 1.1 (UK)
+))
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex
+\pgfutil@everybye=\toks32
+\pgfutil@tempdima=\dimen162
+\pgfutil@tempdimb=\dimen163
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def
+\pgfutil@abb=\box55
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks33
+\pgfkeys@temptoks=\toks34
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+libraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks35
+))
+\pgf@x=\dimen164
+\pgf@y=\dimen165
+\pgf@xa=\dimen166
+\pgf@ya=\dimen167
+\pgf@xb=\dimen168
+\pgf@yb=\dimen169
+\pgf@xc=\dimen170
+\pgf@yc=\dimen171
+\pgf@xd=\dimen172
+\pgf@yd=\dimen173
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count278
+\c@pgf@countb=\count279
+\c@pgf@countc=\count280
+\c@pgf@countd=\count281
+\t@pgf@toka=\toks36
+\t@pgf@tokb=\toks37
+\t@pgf@tokc=\toks38
+\pgf@sys@id@count=\count282
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count283
+\pgfsyssoftpath@bigbuffer@items=\count284
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex
+\pgfmath@dimen=\dimen174
+\pgfmath@count=\count285
+\pgfmath@box=\box56
+\pgfmath@toks=\toks39
+\pgfmath@stack@operand=\toks40
+\pgfmath@stack@operation=\toks41
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex
+\c@pgfmathroundto@lastzeros=\count286
+))
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen175
+\pgf@picmaxx=\dimen176
+\pgf@picminy=\dimen177
+\pgf@picmaxy=\dimen178
+\pgf@pathminx=\dimen179
+\pgf@pathmaxx=\dimen180
+\pgf@pathminy=\dimen181
+\pgf@pathmaxy=\dimen182
+\pgf@xx=\dimen183
+\pgf@xy=\dimen184
+\pgf@yx=\dimen185
+\pgf@yy=\dimen186
+\pgf@zx=\dimen187
+\pgf@zy=\dimen188
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen189
+\pgf@path@lasty=\dimen190
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen191
+\pgf@shorten@start@additional=\dimen192
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box57
+\pgf@hbox=\box58
+\pgf@layerbox@main=\box59
+\pgf@picture@serial@count=\count287
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen193
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen194
+\pgf@pt@y=\dimen195
+\pgf@pt@temp=\dimen196
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen197
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen198
+\pgf@sys@shading@range@num=\count288
+\pgf@shadingcount=\count289
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box60
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box61
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen199
+\pgf@nodesepend=\dimen256
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex))
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex))
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen257
+\pgffor@skip=\dimen258
+\pgffor@stack=\toks42
+\pgffor@toks=\toks43
+))
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count290
+\pgfplotmarksize=\dimen259
+)
+\tikz@lastx=\dimen260
+\tikz@lasty=\dimen261
+\tikz@lastxsaved=\dimen262
+\tikz@lastysaved=\dimen263
+\tikz@lastmovetox=\dimen264
+\tikz@lastmovetoy=\dimen265
+\tikzleveldistance=\dimen266
+\tikzsiblingdistance=\dimen267
+\tikz@figbox=\box62
+\tikz@figbox@bg=\box63
+\tikz@tempbox=\box64
+\tikz@tempbox@bg=\box65
+\tikztreelevel=\count291
+\tikznumberofchildren=\count292
+\tikznumberofcurrentchild=\count293
+\tikz@fig@count=\count294
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count295
+\pgfmatrixcurrentcolumn=\count296
+\pgf@matrix@numberofcolumns=\count297
+)
+\tikz@expandcount=\count298
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossar
+ies.sty
+Package: glossaries 2022/11/03 v4.52 (NLCT)
+ (C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks44
+\XKV@tempa@toks=\toks45
+)
+\XKV@depth=\count299
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty
+Package: mfirstuc 2022/10/14 v2.08 (NLCT)
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count300
+)
+\@glsmfirst=\toks46
+\@glsmrest=\toks47
+) (C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/xfor\xfor.sty
+Package: xfor 2009/02/05 v1.05 (NLCT)
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-base.
+sty
+Package: datatool-base 2019/09/27 v2.32 (NLCT)
+ (C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/substr\substr.sty
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count301
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-fp.st
+y
+Package: datatool-fp 2019/09/27 v2.32 (NLCT)
+ (C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp.sty
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/fp\defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count302
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count303
+\FP@xia=\count304
+\FP@xib=\count305
+\FP@xfa=\count306
+\FP@xfb=\count307
+\FP@rega=\count308
+\FP@regb=\count309
+\FP@regs=\count310
+\FP@times=\count311
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-addons.sty
+Package: fp-addons 1995/03/15
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-snap.sty
+Package: fp-snap 1995/04/05
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-exp.sty
+Package: fp-exp 1995/04/03
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-trigo.sty
+Package: fp-trigo 1995/04/14
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-pas.sty
+Package: fp-pas 1994/08/29
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count312
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-eqn.sty
+Package: fp-eqn 1995/04/03
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-upn.sty
+Package: fp-upn 1996/10/21
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-eval.sty
+Package: fp-eval 1995/04/03
+)))
+\@dtl@toks=\toks48
+\@dtl@tmpcount=\count313
+\dtl@tmplength=\skip102
+\dtl@sortresult=\count314
+\@dtl@numgrpsepcount=\count315
+\@dtl@datatype=\count316
+\dtl@codeA=\count317
+\dtl@codeB=\count318
+\@dtl@foreach@level=\count319
+)
+
+Package glossaries Warning: sanitize package option deprecated on input line 11
+81.
+
+\gls@level=\count320
+\@gls@tmpb=\toks49
+\gls@tmplen=\skip103
+\glskeylisttok=\toks50
+\glslabeltok=\toks51
+\glsshorttok=\toks52
+\glslongtok=\toks53
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-hypernav.sty
+Package: glossary-hypernav 2022/11/03 v4.52 (NLCT)
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-list.sty
+Package: glossary-list 2022/11/03 v4.52 (NLCT)
+\glslistdottedwidth=\skip104
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-long.sty
+Package: glossary-long 2022/11/03 v4.52 (NLCT)
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip105
+\LTright=\skip106
+\LTpre=\skip107
+\LTpost=\skip108
+\LTchunksize=\count321
+\LTcapwidth=\dimen268
+\LT@head=\box66
+\LT@firsthead=\box67
+\LT@foot=\box68
+\LT@lastfoot=\box69
+\LT@gbox=\box70
+\LT@cols=\count322
+\LT@rows=\count323
+\c@LT@tables=\count324
+\c@LT@chunks=\count325
+\LT@p@ftn=\toks54
+)
+\glsdescwidth=\skip109
+\glspagelistwidth=\skip110
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-super.sty
+Package: glossary-super 2022/11/03 v4.52 (NLCT)
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supertabul
+ar.sty
+Package: supertabular 2020/02/02 v4.1g the supertabular environment
+\c@tracingst=\count326
+\ST@wd=\dimen269
+\ST@rightskip=\skip111
+\ST@leftskip=\skip112
+\ST@parfillskip=\skip113
+\ST@pageleft=\dimen270
+\ST@headht=\dimen271
+\ST@tailht=\dimen272
+\ST@pagesofar=\dimen273
+\ST@pboxht=\dimen274
+\ST@lineht=\dimen275
+\ST@prevht=\dimen276
+\ST@toadd=\dimen277
+\ST@dimen=\dimen278
+\ST@pbox=\box71
+))
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-tree.sty
+Package: glossary-tree 2022/11/03 v4.52 (NLCT)
+\glstreeindent=\skip114
+))
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks55
+\inpenc@posthook=\toks56
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2023/08/29 v3.93 The Babel package
+\babel@savecnt=\count327
+\U@D=\dimen279
+\l@unhyphenated=\language79
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read3
+\bbl@dirlevel=\count328
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.l
+df
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+\es@quottoks=\toks57
+\es@quotdepth=\count329
+Package babel Info: Making " an active character on input line 570.
+Package babel Info: Making . an active character on input line 675.
+Package babel Info: Making < an active character on input line 722.
+Package babel Info: Making > an active character on input line 722.
+))
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\babel
+-spanish.tex
+Package babel Info: Importing font and identification data for spanish
+(babel)             from babel-es.ini. Reported on input line 11.
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box72
+\beforetitleunit=\skip115
+\aftertitleunit=\skip116
+\ttl@plus=\dimen280
+\ttl@minus=\dimen281
+\ttl@toksa=\toks58
+\titlewidth=\dimen282
+\titlewidthlast=\dimen283
+\titlewidthfirst=\dimen284
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxtext.sty
+Package: newtxtext 2023/08/20 v1.724(Michael Sharpe) latex and unicode latex su
+pport for TeXGyreTermesX
+
+`newtxtext' v1.724, 2023/08/20 Text macros taking advantage of TeXGyre Termes a
+nd its extensions (msharpe)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
+\xs_counta=\count330
+\xs_countb=\count331
+)
+Package: xstring 2023/08/22 v1.86 String manipulations (CT)
+) (C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty
+)
+LaTeX Font Info:    Setting ntxLF sub-encoding to TS1/0 on input line 21.
+LaTeX Font Info:    Setting ntxTLF sub-encoding to TS1/0 on input line 21.
+LaTeX Font Info:    Setting ntxOsF sub-encoding to TS1/0 on input line 21.
+LaTeX Font Info:    Setting ntxTOsF sub-encoding to TS1/0 on input line 21.
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binhex.tex)
+\ntx@tmpcnta=\count332
+\ntx@cnt=\count333
+
+ntx@otftextfalse
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+\tx@sixem=\dimen285
+\tx@y=\dimen286
+\tx@x=\dimen287
+\tx@tmpdima=\dimen288
+\tx@tmpdimb=\dimen289
+\tx@tmpdimc=\dimen290
+\tx@tmpdimd=\dimen291
+\tx@tmpdime=\dimen292
+\tx@tmpdimf=\dimen293
+\tx@dimA=\dimen294
+\tx@dimAA=\dimen295
+\tx@dimB=\dimen296
+\tx@dimBB=\dimen297
+\tx@dimC=\dimen298
+LaTeX Info: Redefining \oldstylenums on input line 710.
+) (C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxmath.sty
+Package: newtxmath 2023/07/30 v1.723
+
+`newtxmath' v1.723, 2023/07/30 Math macros based originally on txfonts (msharpe
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\centernot.sty
+Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
+)
+\tx@cntz=\count334
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binhex.tex)
+\tx@Isdigit=\count335
+\tx@IsAlNum=\count336
+\tx@tA=\toks59
+\tx@tB=\toks60
+\tx@su=\read4
+
+amsthm NOT loaded
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 385.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/minntx/m/n on input line 385.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/minntx/m/n on input line 385.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/minntx/m/n --> OT1/minntx/b/n on input line 386.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 392.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> T1/qhv/m/n on input line 392.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> T1/qhv/m/n on input line 392.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 393.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/minntx/m/it on input line 393.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/minntx/m/it on input line 393.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 394.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> T1/ntxtt/m/n on input line 394.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> T1/ntxtt/m/n on input line 394.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 396.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/minntx/b/n on input line 396.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/minntx/b/n on input line 396.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/minntx/m/it --> OT1/minntx/b/it on input line 397.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  T1/qhv/m/n --> T1/qhv/b/n on input line 398.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  T1/ntxtt/m/n --> T1/ntxtt/b/n on input line 399.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 501.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ntxmi/m/it on input line 501.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ntxmi/m/it on input line 501.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/ntxmi/m/it --> OML/ntxmi/b/it on input line 502.
+\symlettersA=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/ntxmia/m/it --> U/ntxmia/b/it on input line 557.
+LaTeX Font Info:    Redeclaring math alphabet \mathfrak on input line 559.
+Now handling font encoding LMS ...
+... no UTF-8 mapping file for font encoding LMS
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 578.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 578.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> LMS/ntxsy/m/n on input line 578.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 578.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> LMS/ntxsy/m/n on input line 578.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  LMS/ntxsy/m/n --> LMS/ntxsy/b/n on input line 579.
+\symAMSm=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `AMSm' in version `bold'
+(Font)                  U/ntxsym/m/n --> U/ntxsym/b/n on input line 604.
+\symsymbolsC=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/ntxsyc/m/n --> U/ntxsyc/b/n on input line 625.
+Now handling font encoding LMX ...
+... no UTF-8 mapping file for font encoding LMX
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 638.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 6
+38.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 638.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 638
+.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 638.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  LMX/ntxexx/m/n --> LMX/ntxexx/b/n on input line 639.
+\symlargesymbolsTXA=\mathgroup10
+LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
+
+(Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 653.
+\tx@sbptoks=\toks61
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 876.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 877.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 878.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 879.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 880.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 881.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 882.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 884.
+LaTeX Font Info:    Redeclaring math delimiter \arrowvert on input line 888.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 889.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 960.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 961.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 2031.
+LaTeX Info: Redefining \Bbbk on input line 2821.
+LaTeX Info: Redefining \not on input line 2969.
+LaTeX Info: Redefining \textsquare on input line 2999.
+LaTeX Info: Redefining \openbox on input line 3001.
+) (C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/stmaryrd\stmaryrd.sty
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup11
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+) (C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/bbold\bbold.sty
+Package: bbold 1994/04/06 Bbold symbol package
+LaTeX Font Info:    Redeclaring math alphabet \mathbb on input line 42.
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/algorithm2e\algorithm2e
+.sty
+Package: algorithm2e 2017/07/18 v5.2 algorithms environments
+\c@AlgoLine=\count337
+\algocf@hangindent=\skip117
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count338
+) (C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/relsize\relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\skiptotal=\skip118
+\skiplinenumber=\skip119
+\skiprule=\skip120
+\skiphlne=\skip121
+\skiptext=\skip122
+\skiplength=\skip123
+\algomargin=\skip124
+\skipalgocfslide=\skip125
+\algowidth=\dimen299
+\inoutsize=\dimen300
+\inoutindent=\dimen301
+\interspacetitleruled=\dimen302
+\interspacealgoruled=\dimen303
+\interspacetitleboxruled=\dimen304
+\algocf@ruledwidth=\skip126
+\algocf@inoutbox=\box73
+\algocf@inputbox=\box74
+\AlCapSkip=\skip127
+\AlCapHSkip=\skip128
+\algoskipindent=\skip129
+\algocf@nlbox=\box75
+\algocf@hangingbox=\box76
+\algocf@untilbox=\box77
+\algocf@skipuntil=\skip130
+\algocf@capbox=\box78
+\algocf@lcaptionbox=\skip131
+\algoheightruledefault=\skip132
+\algoheightrule=\skip133
+\algotitleheightruledefault=\skip134
+\algotitleheightrule=\skip135
+\c@algocfline=\count339
+\c@algocfproc=\count340
+\c@algocf=\count341
+\algocf@algoframe=\box79
+\algocf@algobox=\box80
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithmic.
+sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count342
+\c@ALC@line=\count343
+\c@ALC@rem=\count344
+\c@ALC@depth=\count345
+\ALC@tlm=\skip136
+\algorithmicindent=\skip137
+) (C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count346
+\float@exts=\toks62
+\float@box=\box81
+\@float@everytoks=\toks63
+\@floatcapt=\box82
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen305
+\lightrulewidth=\dimen306
+\cmidrulewidth=\dimen307
+\belowrulesep=\dimen308
+\belowbottomsep=\dimen309
+\aboverulesep=\dimen310
+\abovetopsep=\dimen311
+\cmidrulesep=\dimen312
+\cmidrulekern=\dimen313
+\defaultaddspace=\dimen314
+\@cmidla=\count347
+\@cmidlb=\count348
+\@aboverulesep=\dimen315
+\@belowrulesep=\dimen316
+\@thisruleclass=\count349
+\@lastruleclass=\count350
+\@thisrulewidth=\dimen317
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip138
+\multirow@cntb=\count351
+\multirow@dima=\skip139
+\bigstrutjot=\dimen318
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip140
+\enit@outerparindent=\dimen319
+\enit@toks=\toks64
+\enit@inbox=\box83
+\enit@count@id=\count352
+\enitdp@description=\count353
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count354
+\rotFPtop=\skip141
+\rotFPbot=\skip142
+\rot@float@box=\box84
+\rot@mess@toks=\toks65
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nom
+etadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count355
+\lst@gtempboxa=\box85
+\lst@token=\toks66
+\lst@length=\count356
+\lst@currlwidth=\dimen320
+\lst@column=\count357
+\lst@pos=\count358
+\lst@lostspace=\dimen321
+\lst@width=\dimen322
+\lst@newlines=\count359
+\lst@lineno=\count360
+\lst@maxwidth=\dimen323
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count361
+\lst@skipnumbers=\count362
+\lst@framebox=\box86
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/placeins\placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/base\flafter.sty
+Package: flafter 2021/07/31 v1.4e Standard LaTeX floats after reference (FMi)
+Applying: [2015/01/01] float order in 2-column on input line 49.
+Already applied: [0000/00/00] float order in 2-column on input line 151.
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/doublestroke\dsfont.sty
+Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
+)
+\c@definition=\count363
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.callouts.code.tex
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.callouts.code.tex))
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodepartlowerbox=\box87
+\pgfnodeparttwobox=\box88
+\pgfnodepartthreebox=\box89
+\pgfnodepartfourbox=\box90
+\pgfnodeparttwentybox=\box91
+\pgfnodepartnineteenbox=\box92
+\pgfnodeparteighteenbox=\box93
+\pgfnodepartseventeenbox=\box94
+\pgfnodepartsixteenbox=\box95
+\pgfnodepartfifteenbox=\box96
+\pgfnodepartfourteenbox=\box97
+\pgfnodepartthirteenbox=\box98
+\pgfnodeparttwelvebox=\box99
+\pgfnodepartelevenbox=\box100
+\pgfnodeparttenbox=\box101
+\pgfnodepartninebox=\box102
+\pgfnodeparteightbox=\box103
+\pgfnodepartsevenbox=\box104
+\pgfnodepartsixbox=\box105
+\pgfnodepartfivebox=\box106
+)))
+\c@ttlp@side=\count364
+\ttlp@side=\count365
+\glswrite=\write4
+\glo@main@file=\write5
+\openout5 = `memoria.glo'.
+
+Package glossaries Info: Writing glossary file memoria.glo on input line 108.
+\glo@acronym@file=\write6
+\openout6 = `memoria.acn'.
+
+Package glossaries Info: Writing glossary file memoria.acn on input line 108.
+ (secciones/glosario.tex)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip143
+\bibsep=\skip144
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count366
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/hypernat\hypernat.sty
+Package: hypernat 2001/07/09 v1.0b hyperref and natbib compatibility (jb)
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count367
+)
+\@linkdim=\dimen324
+\Hy@linkcounter=\count368
+\Hy@pagecounter=\count369
+ (C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count370
+ (C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `final' set `true' on input line 4050.
+Package hyperref Info: Option `plainpages' set `false' on input line 4050.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4050.
+Package hyperref Info: Hyper figures OFF on input line 4167.
+Package hyperref Info: Link nesting OFF on input line 4172.
+Package hyperref Info: Hyper index ON on input line 4175.
+Package hyperref Info: Plain pages OFF on input line 4182.
+Package hyperref Info: Backreferencing OFF on input line 4187.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4434.
+\c@Hy@tempcnt=\count371
+LaTeX Info: Redefining \url on input line 4772.
+\XeTeXLinkMargin=\dimen325
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count372
+\Field@Width=\dimen326
+\Fld@charsize=\dimen327
+Package hyperref Info: Hyper figures OFF on input line 6051.
+Package hyperref Info: Link nesting OFF on input line 6056.
+Package hyperref Info: Hyper index ON on input line 6059.
+Package hyperref Info: backreferencing OFF on input line 6066.
+Package hyperref Info: Link coloring OFF on input line 6071.
+Package hyperref Info: Link coloring with OCG OFF on input line 6076.
+Package hyperref Info: PDF/A mode OFF on input line 6081.
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count373
+\c@Item=\count374
+\c@Hfootnote=\count375
+)
+Package hyperref Info: Driver: hpdftex.
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2023-07-08 v7.01b Hyperref driver for pdfTeX
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count376
+\c@bookmark@seq@number=\count377
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip145
+)
+Package hyperref Info: Option `linktocpage' set `true' on input line 131.
+Package hyperref Info: Option `colorlinks' set `true' on input line 131.
+
+
+Package hyperref Warning: Option `bookmarks' has already been used,
+(hyperref)                setting the option has no effect on input line 131.
+
+Package hyperref Info: Option `breaklinks' set `true' on input line 131.
+
+Package hyperref Warning: Option `pdfpagelabels' has already been used,
+(hyperref)                setting the option has no effect on input line 131.
+
+LaTeX Font Info:    Trying to load font information for T1+qhv on input line 13
+7.
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/tex-gyre\t1qhv.fd
+File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
+)
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 10.29301pt on input line 137.
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count378
+\l__pdf_internal_box=\box107
+) (memoria.aux
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
+)
+\openout1 = `memoria.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 137.
+LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line
+ 137.
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/newtx\omlntxmi.fd
+File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
+)
+LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 137.
+LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 137.
+LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 137.
+LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 137.
+LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 137.
+LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 137.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 
+137.
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxexa.fd
+File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
+)
+LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 137.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line
+ 137.
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmsntxsy.fd
+File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
+)
+LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 137.
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input lin
+e 137.
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmxntxexx.fd
+File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
+)
+LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 137.
+LaTeX Font Info:    ... okay on input line 137.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 137.
+LaTeX Font Info:    ... okay on input line 137.
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count379
+\scratchdimen=\dimen328
+\scratchbox=\box108
+\nofMPsegments=\count380
+\nofMParguments=\count381
+\everyMPshowfont=\toks67
+\MPscratchCnt=\count382
+\MPscratchDim=\dimen329
+\MPnumerator=\count383
+\makeMPintoPDFobject=\count384
+\everyMPtoPDFconversion=\toks68
+)
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Info: Command `\dddot' is already robust on input line 137.
+LaTeX Info: Command `\ddddot' is already robust on input line 137.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
+* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=674.33032pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=103.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \. on input line 137.
+LaTeX Info: Redefining \% on input line 137.
+\c@mv@tabular=\count385
+\c@mv@boldtabular=\count386
+\c@lstlisting=\count387
+Package hyperref Info: Link coloring ON on input line 137.
+(memoria.out) (memoria.out)
+\@outlinefile=\write7
+\openout7 = `memoria.out'.
+
+ (secciones/portada.tex)
+(secciones/frase-favorita.tex
+
+LaTeX Font Warning: Font shape `T1/qhv/m/sl' in size <10.95> not available
+(Font)              Font shape `T1/qhv/m/it' tried instead on input line 11.
+
+LaTeX Font Info:    Font shape `T1/qhv/m/it' will be
+(Font)              scaled to size 10.29301pt on input line 11.
+LaTeX Font Info:    Trying to load font information for OT1+minntx on input lin
+e 18.
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1minntx.fd
+File: ot1minntx.fd 2022/01/20 v1.0 font definition file for OT1/minntx
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 18.
+
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 18.
+
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 18
+.
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 
+18.
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxmia.fd
+File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
+)
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 
+18.
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsym.fd
+File: untxsym.fd 2023/08/16 Fontinst v1.933 font definitions for U/ntxsym.
+)
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 
+18.
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsyc.fd
+File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
+)
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 1
+8.
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/stmaryrd\ustmry.fd))
+(secciones/agradecimientos.tex [1
+
+\openout4 = `memoria.xdy'.
+
+
+{C:/Users/alvar/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/alva
+r/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ec.enc}]
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.3 \cleardoublepage
+                     [2
+
+]
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 19.49565pt on input line 5.
+LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
+(Font)              scaled to size 19.49565pt on input line 5.
+)
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.144 \cleardoublepage
+                       [3]
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.144 \cleardoublepage
+                       [4
+
+]
+LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
+(Font)              scaled to size 20.68005pt on input line 163.
+
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <16.1> not available
+(Font)              size <17.28> substituted on input line 163.
+
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <11.4> not available
+(Font)              size <10.95> substituted on input line 163.
+
+
+LaTeX Font Warning: Font shape `U/stmry/m/n' in size <16.1> not available
+(Font)              size <17.28> substituted on input line 163.
+
+
+LaTeX Font Warning: Font shape `U/stmry/m/n' in size <11.4> not available
+(Font)              size <10.95> substituted on input line 163.
+
+(memoria.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    Font shape `T1/qhv/m/sc' will be
+(Font)              scaled to size 10.29301pt on input line 2.
+)
+\tf@toc=\write8
+\openout8 = `memoria.toc'.
+
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 9.40002pt on input line 164.
+LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
+(Font)              scaled to size 9.40002pt on input line 164.
+LaTeX Font Info:    Font shape `T1/qhv/b/sc' will be
+(Font)              scaled to size 9.40002pt on input line 164.
+ [1
+
+{C:/Users/alvar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ec-sc.
+enc}] (memoria.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@lof=\write9
+\openout9 = `memoria.lof'.
+
+ [2
+
+] (memoria.lot
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@lot=\write10
+\openout10 = `memoria.lot'.
+
+ [3
+
+] (memoria.loa)
+\tf@loa=\write11
+\openout11 = `memoria.loa'.
+
+
+[4
+
+] (secciones/introduccion.tex
+Cap\'{\i }tulo 1.
+LaTeX Font Info:    Trying to load font information for T1+jkp on input line 5.
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/kpfonts\t1jkp.fd
+File: t1jkp.fd 2007/01/24 Fontinst v1.928 font definitions for T1/jkp.
+))
+(secciones/capitulo4.tex [1
+
+
+{C:/Users/alvar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}] [2
+
+]
+Cap\'{\i }tulo 2.
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 13.53603pt on input line 8.
+LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
+(Font)              scaled to size 13.53603pt on input line 8.
+LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
+(Font)              scaled to size 10.29301pt on input line 11.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3
+
+]
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 11.28003pt on input line 23.
+LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
+(Font)              scaled to size 11.28003pt on input line 23.
+LaTeX Info: Redefining \. on input line 39.
+LaTeX Info: Redefining \% on input line 39.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[4]
+<figuras/capitulo4/character_splitter_100_0.png, id=182, 486.31688pt x 217.1864
+pt>
+File: figuras/capitulo4/character_splitter_100_0.png Graphic file (type png)
+<use figuras/capitulo4/character_splitter_100_0.png>
+Package pdftex.def Info: figuras/capitulo4/character_splitter_100_0.png  used o
+n input line 50.
+(pdftex.def)             Requested size: 341.43437pt x 152.48346pt.
+<figuras/capitulo4/character_splitter_100_20.png, id=184, 484.43484pt x 301.125
+pt>
+File: figuras/capitulo4/character_splitter_100_20.png Graphic file (type png)
+<use figuras/capitulo4/character_splitter_100_20.png>
+Package pdftex.def Info: figuras/capitulo4/character_splitter_100_20.png  used 
+on input line 57.
+(pdftex.def)             Requested size: 341.43437pt x 212.2472pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 69.
+LaTeX Info: Redefining \% on input line 69.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[5 <./figuras/capitulo4/character_splitter_100_0.png>]
+<figuras/capitulo4/recursive_character_splitter_250_0.png, id=191, 471.26062pt 
+x 339.89484pt>
+File: figuras/capitulo4/recursive_character_splitter_250_0.png Graphic file (ty
+pe png)
+<use figuras/capitulo4/recursive_character_splitter_250_0.png>
+Package pdftex.def Info: figuras/capitulo4/recursive_character_splitter_250_0.p
+ng  used on input line 72.
+(pdftex.def)             Requested size: 341.43437pt x 246.25925pt.
+LaTeX Info: Redefining \. on input line 80.
+LaTeX Info: Redefining \% on input line 80.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[6 <./figuras/capitulo4/character_splitter_100_20.png> <./figuras/capitulo4/rec
+ursive_character_splitter_250_0.png>]
+<figuras/capitulo4/character_md_100.png, id=198, 471.26062pt x 410.2828pt>
+File: figuras/capitulo4/character_md_100.png Graphic file (type png)
+<use figuras/capitulo4/character_md_100.png>
+Package pdftex.def Info: figuras/capitulo4/character_md_100.png  used on input 
+line 85.
+(pdftex.def)             Requested size: 341.43437pt x 297.25647pt.
+
+Underfull \vbox (badness 6412) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 96.
+LaTeX Info: Redefining \% on input line 96.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[7 <./figuras/capitulo4/character_md_100.png>])
+LaTeX Info: Redefining \. on input line 184.
+LaTeX Info: Redefining \% on input line 184.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[8] (memoria.acr)
+No file memoria.gls.
+(secciones/apendizes.tex [9
+
+
+
+]
+Ap\'{e}ndice A.
+[10
+
+]
+Ap\'{e}ndice B.
+)
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 8.46002pt on input line 194.
+ [11
+
+] (memoria.bbl
+
+Package natbib Warning: Empty `thebibliography' environment on input line 3.
+
+) [12
+
+
+
+] (memoria.aux
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
+)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+ ***********
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.18pt have occurred.
+
+
+Package rerunfilecheck Warning: File `memoria.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `memoria.out':
+(rerunfilecheck)             Before: 78812E0864C98BE542111F5F779DBA61;4130
+(rerunfilecheck)             After:  D492F213B955F5CB162F7F3CD87E2EAF;4321.
+ ) 
+Here is how much of TeX's memory you used:
+ 36310 strings out of 475248
+ 657298 string characters out of 5757813
+ 1929801 words of memory out of 5000000
+ 57033 multiletter control sequences out of 15000+600000
+ 643743 words of font info for 127 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 94i,16n,93p,2265b,979s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/alvar/AppData/Local/Programs/MiKTeX/fonts/type1/public/kpfonts/jkpb
+n8a.pfb><C:/Users/alvar/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gy
+re/qhvb.pfb><C:/Users/alvar/AppData/Local/Programs/MiKTeX/fonts/type1/public/te
+x-gyre/qhvr.pfb><C:/Users/alvar/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/tex-gyre/qhvri.pfb>
+Output written on memoria.pdf (20 pages, 536640 bytes).
+PDF statistics:
+ 269 PDF objects out of 1000 (max. 8388607)
+ 51 named destinations out of 1000 (max. 500000)
+ 217 words of extra memory for PDF output out of 10000 (max. 10000000)
+

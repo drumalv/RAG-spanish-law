@@ -1,0 +1,26 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{Índice de figuras}{\es@scroman {ii}}{chapter*.2}%
+\contentsline {chapter}{Índice de tablas}{\es@scroman {iii}}{chapter*.3}%
+\contentsline {chapter}{Índice de algoritmos}{\es@scroman {iv}}{chapter*.4}%
+\contentsline {chapter}{\numberline {1}Introducción}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Estrategias de chunkerización para LLMs}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introducción}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Consideraciones sobre la Chunkerización}{4}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Naturaleza del Contenido}{4}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Modelo y Tamaño Óptimo del Chunk}{4}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Complejidad y Longitud de las Consultas de Usuario}{4}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Uso de los Resultados Recuperados}{4}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Limitaciones Técnicas}{4}{subsection.2.2.5}%
+\contentsline {section}{\numberline {2.3}Estrategias de Chunkerización}{5}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Chunkerización de Tamaño Fijo}{5}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Chunkerización Consciente del Contenido}{5}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Chunkerización Recursiva}{6}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Chunkerización Especializada}{7}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}Chunkerización Semántica}{7}{subsection.2.3.5}%
+\contentsline {subsubsection}{\numberline {2.3.5.1}Implementación y Ventajas}{8}{subsubsection.2.3.5.1}%
+\contentsline {subsubsection}{\numberline {2.3.5.2}Desafíos y Aplicaciones}{8}{subsubsection.2.3.5.2}%
+\contentsline {section}{\numberline {2.4}Conclusiones}{8}{section.2.4}%
+\contentsline {chapter}{Lista de Acr\'onimos}{9}{section*.6}%
+\contentsline {chapter}{\numberline {A}Apéndize A}{10}{appendix.Alph1}%
+\contentsline {chapter}{\numberline {B}Apéndize B}{11}{appendix.Alph2}%
+\contentsline {chapter}{Bibliografía}{12}{appendix*.8}%
