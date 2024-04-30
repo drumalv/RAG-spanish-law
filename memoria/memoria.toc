@@ -1,7 +1,7 @@
 \babel@toc {spanish}{}\relax 
-\contentsline {chapter}{Índice de figuras}{\es@scroman {ii}}{chapter*.2}%
-\contentsline {chapter}{Índice de tablas}{\es@scroman {iii}}{chapter*.3}%
-\contentsline {chapter}{Índice de algoritmos}{\es@scroman {iv}}{chapter*.4}%
+\contentsline {chapter}{Índice de figuras}{\es@scroman {iii}}{chapter*.2}%
+\contentsline {chapter}{Índice de tablas}{\es@scroman {iv}}{chapter*.3}%
+\contentsline {chapter}{Índice de algoritmos}{\es@scroman {v}}{chapter*.4}%
 \contentsline {chapter}{\numberline {1}Introducción}{1}{chapter.1}%
 \contentsline {chapter}{\numberline {2}Estrategias de chunkerización para LLMs}{3}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Introducción}{3}{section.2.1}%
@@ -20,7 +20,25 @@
 \contentsline {subsubsection}{\numberline {2.3.5.1}Implementación y Ventajas}{8}{subsubsection.2.3.5.1}%
 \contentsline {subsubsection}{\numberline {2.3.5.2}Desafíos y Aplicaciones}{8}{subsubsection.2.3.5.2}%
 \contentsline {section}{\numberline {2.4}Conclusiones}{8}{section.2.4}%
-\contentsline {chapter}{Lista de Acr\'onimos}{9}{section*.6}%
-\contentsline {chapter}{\numberline {A}Apéndize A}{10}{appendix.Alph1}%
-\contentsline {chapter}{\numberline {B}Apéndize B}{11}{appendix.Alph2}%
-\contentsline {chapter}{Bibliografía}{12}{appendix*.8}%
+\contentsline {chapter}{\numberline {3}Retrievers}{9}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introducción}{9}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Fundamentos de los Retrievers}{9}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Definición y Función}{9}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Rol en RAG}{9}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}Tipos de Retrievers Tradicionales}{10}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Retrievers Sparse}{10}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Retrievers Dense}{10}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Retrievers Hybrid}{11}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3.4}Retrievers Avanzados}{11}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Documento Matriz (Parent Document)}{11}{subsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.1.1}Multi Vector}{11}{subsubsection.3.4.1.1}%
+\contentsline {subsection}{\numberline {3.4.2}Consulta Autónoma (Self Query)}{12}{subsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.2.1}Compresión Contextual}{12}{subsubsection.3.4.2.1}%
+\contentsline {subsection}{\numberline {3.4.3}Time-Weighted Vectorstore}{12}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}Multi-Query Retriever}{13}{subsection.3.4.4}%
+\contentsline {subsection}{\numberline {3.4.5}Long-Context Reorder}{13}{subsection.3.4.5}%
+\contentsline {section}{\numberline {3.5}Conclusión}{13}{section.3.5}%
+\contentsline {chapter}{Lista de Acr\'onimos}{15}{section*.6}%
+\contentsline {chapter}{\numberline {A}Apéndize A}{16}{appendix.Alph1}%
+\contentsline {chapter}{\numberline {B}Apéndize B}{17}{appendix.Alph2}%
+\contentsline {chapter}{Bibliografía}{18}{appendix*.8}%

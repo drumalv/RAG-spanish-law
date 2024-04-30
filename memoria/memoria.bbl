@@ -1,3 +1,19 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\astroncite{LangChain}{2024}]{langchainretrievers}
+LangChain (2024).
+\newblock Documentation for retriever modules.
+
+\bibitem[\protect\astroncite{Lewis et~al.}{2020}]{lewis2020retrieval}
+Lewis, P., Perez, E., Piktus, A., Petroni, F., Karpukhin, V., Goyal, N.,
+  K{\"u}ttler, H., Lewis, M., Yih, W.-t., Rockt{\"a}schel, T., et~al. (2020).
+\newblock Retrieval-augmented generation for knowledge-intensive nlp tasks.
+\newblock {\em Advances in Neural Information Processing Systems},
+  33:9459--9474.
+
+\bibitem[\protect\astroncite{Liu et~al.}{2023}]{liu2023lost}
+Liu, N.~F., Lin, K., Hewitt, J., Paranjape, A., Bevilacqua, M., Petroni, F., y
+  Liang, P. (2023).
+\newblock Lost in the middle: How language models use long contexts.
+
 \end{thebibliography}

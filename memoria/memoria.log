@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.16)  25 APR 2024 20:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.16)  30 APR 2024 19:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1632,27 +1632,38 @@ LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 LaTeX Font Info:    Font shape `T1/qhv/m/sc' will be
 (Font)              scaled to size 10.29301pt on input line 2.
-)
-\tf@toc=\write8
-\openout8 = `memoria.toc'.
-
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 9.40002pt on input line 164.
+(Font)              scaled to size 9.40002pt on input line 31.
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 9.40002pt on input line 164.
+(Font)              scaled to size 9.40002pt on input line 31.
 LaTeX Font Info:    Font shape `T1/qhv/b/sc' will be
-(Font)              scaled to size 9.40002pt on input line 164.
+(Font)              scaled to size 9.40002pt on input line 31.
  [1
 
 {C:/Users/alvar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ec-sc.
-enc}] (memoria.lof
+enc}])
+\tf@toc=\write8
+\openout8 = `memoria.toc'.
+
+LaTeX Info: Redefining \. on input line 164.
+LaTeX Info: Redefining \% on input line 164.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[2] (memoria.lof
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
 \tf@lof=\write9
 \openout9 = `memoria.lof'.
 
- [2
+ [3
 
 ] (memoria.lot
 LaTeX Info: Redefining \. on input line 1.
@@ -1661,16 +1672,16 @@ LaTeX Info: Redefining \% on input line 1.
 \tf@lot=\write10
 \openout10 = `memoria.lot'.
 
- [3
+ [4
 
 ] (memoria.loa)
 \tf@loa=\write11
 \openout11 = `memoria.loa'.
 
+ [5
 
-[4
-
-] (secciones/introduccion.tex
+]
+(secciones/introduccion.tex
 Cap\'{\i }tulo 1.
 LaTeX Font Info:    Trying to load font information for T1+jkp on input line 5.
 
@@ -1712,14 +1723,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [4]
-<figuras/capitulo4/character_splitter_100_0.png, id=182, 486.31688pt x 217.1864
+<figuras/capitulo4/character_splitter_100_0.png, id=279, 486.31688pt x 217.1864
 pt>
 File: figuras/capitulo4/character_splitter_100_0.png Graphic file (type png)
 <use figuras/capitulo4/character_splitter_100_0.png>
 Package pdftex.def Info: figuras/capitulo4/character_splitter_100_0.png  used o
 n input line 50.
 (pdftex.def)             Requested size: 341.43437pt x 152.48346pt.
-<figuras/capitulo4/character_splitter_100_20.png, id=184, 484.43484pt x 301.125
+<figuras/capitulo4/character_splitter_100_20.png, id=281, 484.43484pt x 301.125
 pt>
 File: figuras/capitulo4/character_splitter_100_20.png Graphic file (type png)
 <use figuras/capitulo4/character_splitter_100_20.png>
@@ -1741,7 +1752,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [5 <./figuras/capitulo4/character_splitter_100_0.png>]
-<figuras/capitulo4/recursive_character_splitter_250_0.png, id=191, 471.26062pt 
+<figuras/capitulo4/recursive_character_splitter_250_0.png, id=287, 471.26062pt 
 x 339.89484pt>
 File: figuras/capitulo4/recursive_character_splitter_250_0.png Graphic file (ty
 pe png)
@@ -1762,7 +1773,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [6 <./figuras/capitulo4/character_splitter_100_20.png> <./figuras/capitulo4/rec
 ursive_character_splitter_250_0.png>]
-<figuras/capitulo4/character_md_100.png, id=198, 471.26062pt x 410.2828pt>
+<figuras/capitulo4/character_md_100.png, id=294, 471.26062pt x 410.2828pt>
 File: figuras/capitulo4/character_md_100.png Graphic file (type png)
 <use figuras/capitulo4/character_md_100.png>
 Package pdftex.def Info: figuras/capitulo4/character_md_100.png  used on input 
@@ -1782,9 +1793,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[7 <./figuras/capitulo4/character_md_100.png>])
-LaTeX Info: Redefining \. on input line 184.
-LaTeX Info: Redefining \% on input line 184.
+[7 <./figuras/capitulo4/character_md_100.png>]) (secciones/capitulo5.tex
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1794,28 +1805,105 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[8] (memoria.acr)
-No file memoria.gls.
-(secciones/apendizes.tex [9
+[8]
+Cap\'{\i }tulo 3.
+<figuras/capitulo5/retriever.jpg, id=307, 1226.5825pt x 841.1425pt>
+File: figuras/capitulo5/retriever.jpg Graphic file (type jpg)
+<use figuras/capitulo5/retriever.jpg>
+Package pdftex.def Info: figuras/capitulo5/retriever.jpg  used on input line 25
+.
+(pdftex.def)             Requested size: 341.43437pt x 234.14497pt.
 
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9
+
+
+]
+LaTeX Info: Redefining \. on input line 44.
+LaTeX Info: Redefining \% on input line 44.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[10 <./figuras/capitulo5/retriever.jpg>]
+LaTeX Info: Redefining \. on input line 66.
+LaTeX Info: Redefining \% on input line 66.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[11]
+<figuras/capitulo5/self_query.jpg, id=329, 4015.0pt x 1252.68pt>
+File: figuras/capitulo5/self_query.jpg Graphic file (type jpg)
+<use figuras/capitulo5/self_query.jpg>
+Package pdftex.def Info: figuras/capitulo5/self_query.jpg  used on input line 7
+4.
+(pdftex.def)             Requested size: 341.43437pt x 106.52417pt.
+LaTeX Info: Redefining \. on input line 91.
+LaTeX Info: Redefining \% on input line 91.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[12 <./figuras/capitulo5/self_query.jpg>])
+LaTeX Info: Redefining \. on input line 185.
+LaTeX Info: Redefining \% on input line 185.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[13] [14
+
+] (memoria.acr
+
+Package glossaries Warning: Glossary entry `gan' has not been defined on input 
+line 28.
+
+
+Package glossaries Warning: Glossary entry `gan' has not been defined on input 
+line 28.
+
+)
+No file memoria.gls.
+(secciones/apendizes.tex [15
 
 
 ]
 Ap\'{e}ndice A.
-[10
+[16
 
 ]
 Ap\'{e}ndice B.
 )
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 8.46002pt on input line 194.
- [11
+(Font)              scaled to size 8.46002pt on input line 195.
+ [17
 
 ] (memoria.bbl
-
-Package natbib Warning: Empty `thebibliography' environment on input line 3.
-
-) [12
+LaTeX Font Info:    Font shape `T1/qhv/m/it' will be
+(Font)              scaled to size 8.46002pt on input line 11.
+) [18
 
 
 
@@ -1832,31 +1920,25 @@ L3 programming layer <2023-08-29>
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.18pt have occurred.
 
-
-Package rerunfilecheck Warning: File `memoria.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `memoria.out':
-(rerunfilecheck)             Before: 78812E0864C98BE542111F5F779DBA61;4130
-(rerunfilecheck)             After:  D492F213B955F5CB162F7F3CD87E2EAF;4321.
+Package rerunfilecheck Info: File `memoria.out' has not changed.
+(rerunfilecheck)             Checksum: 7A0243F29BB607F5C238FC2BBC88FEAE;6976.
  ) 
 Here is how much of TeX's memory you used:
- 36310 strings out of 475248
- 657298 string characters out of 5757813
- 1929801 words of memory out of 5000000
- 57033 multiletter control sequences out of 15000+600000
- 643743 words of font info for 127 fonts, out of 8000000 for 9000
+ 36368 strings out of 475248
+ 658665 string characters out of 5757813
+ 1932801 words of memory out of 5000000
+ 57058 multiletter control sequences out of 15000+600000
+ 646969 words of font info for 128 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 94i,16n,93p,2265b,979s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,17n,93p,2265b,1242s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/alvar/AppData/Local/Programs/MiKTeX/fonts/type1/public/kpfonts/jkpb
 n8a.pfb><C:/Users/alvar/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gy
 re/qhvb.pfb><C:/Users/alvar/AppData/Local/Programs/MiKTeX/fonts/type1/public/te
 x-gyre/qhvr.pfb><C:/Users/alvar/AppData/Local/Programs/MiKTeX/fonts/type1/publi
 c/tex-gyre/qhvri.pfb>
-Output written on memoria.pdf (20 pages, 536640 bytes).
+Output written on memoria.pdf (27 pages, 750141 bytes).
 PDF statistics:
- 269 PDF objects out of 1000 (max. 8388607)
- 51 named destinations out of 1000 (max. 500000)
- 217 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 412 PDF objects out of 1000 (max. 8388607)
+ 81 named destinations out of 1000 (max. 500000)
+ 363 words of extra memory for PDF output out of 10000 (max. 10000000)
 
