@@ -1,1 +1,3 @@
 code/vector_stores/*
+.venv
+.env
