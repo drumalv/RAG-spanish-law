@@ -3,42 +3,67 @@
 \contentsline {chapter}{Índice de tablas}{\es@scroman {iv}}{chapter*.3}%
 \contentsline {chapter}{Índice de algoritmos}{\es@scroman {v}}{chapter*.4}%
 \contentsline {chapter}{\numberline {1}Introducción}{1}{chapter.1}%
-\contentsline {chapter}{\numberline {2}Estrategias de chunkerización para LLMs}{3}{chapter.2}%
+\contentsline {subsection}{\numberline {1.0.1}Objetivos}{1}{subsection.1.0.1}%
+\contentsline {chapter}{\numberline {2}Large Language Models (LLMs)}{3}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Introducción}{3}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Consideraciones sobre la Chunkerización}{4}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Naturaleza del Contenido}{4}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}Modelo y Tamaño Óptimo del Chunk}{4}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}Complejidad y Longitud de las Consultas de Usuario}{4}{subsection.2.2.3}%
-\contentsline {subsection}{\numberline {2.2.4}Uso de los Resultados Recuperados}{4}{subsection.2.2.4}%
-\contentsline {subsection}{\numberline {2.2.5}Limitaciones Técnicas}{4}{subsection.2.2.5}%
-\contentsline {section}{\numberline {2.3}Estrategias de Chunkerización}{5}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Chunkerización de Tamaño Fijo}{5}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Chunkerización Consciente del Contenido}{5}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}Chunkerización Recursiva}{6}{subsection.2.3.3}%
-\contentsline {subsection}{\numberline {2.3.4}Chunkerización Especializada}{7}{subsection.2.3.4}%
-\contentsline {subsection}{\numberline {2.3.5}Chunkerización Semántica}{7}{subsection.2.3.5}%
-\contentsline {subsubsection}{\numberline {2.3.5.1}Implementación y Ventajas}{8}{subsubsection.2.3.5.1}%
-\contentsline {subsubsection}{\numberline {2.3.5.2}Desafíos y Aplicaciones}{8}{subsubsection.2.3.5.2}%
-\contentsline {section}{\numberline {2.4}Conclusiones}{8}{section.2.4}%
-\contentsline {chapter}{\numberline {3}Retrievers}{9}{chapter.3}%
+\contentsline {section}{\numberline {2.2}Generación de Texto}{3}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Historia y Evolución de los LLMs}{3}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Modelos de Lenguaje Estadísticos}{4}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Modelos de Lenguaje Neurales}{4}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Transformers y su Impacto}{4}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Transición de PLMs a LLMs}{4}{subsection.2.3.4}%
+\contentsline {section}{\numberline {2.4}Arquitecturas y Modelos Importantes}{5}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}T5 (Text-to-Text Transfer Transformer)}{5}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}BERT (Bidirectional Encoder Representations from Transformers)}{6}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}mT5 (Multilingual T5)}{6}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}GPT-3 (Generative Pre-trained Transformer 3)}{6}{subsection.2.4.4}%
+\contentsline {section}{\numberline {2.5}Aplicaciones de los LLMs}{7}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Generación de Texto}{7}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Resumen Automático}{7}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}Traducción Automática}{7}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.5.4}Interacción Conversacional}{7}{subsection.2.5.4}%
+\contentsline {subsection}{\numberline {2.5.5}Respuesta a Preguntas}{7}{subsection.2.5.5}%
+\contentsline {section}{\numberline {2.6}Desafíos y Futuras Direcciones}{7}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}Costos Computacionales y Energéticos}{7}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}Generalización y Adaptación de Dominios}{7}{subsection.2.6.2}%
+\contentsline {subsection}{\numberline {2.6.3}Seguridad y Ética}{7}{subsection.2.6.3}%
+\contentsline {subsection}{\numberline {2.6.4}Privacidad y Datos Sensibles}{7}{subsection.2.6.4}%
+\contentsline {chapter}{\numberline {3}Estrategias de chunkerización para LLMs}{9}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Introducción}{9}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Fundamentos de los Retrievers}{9}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Definición y Función}{9}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Rol en RAG}{9}{subsection.3.2.2}%
-\contentsline {section}{\numberline {3.3}Tipos de Retrievers Tradicionales}{10}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Retrievers Sparse}{10}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Retrievers Dense}{10}{subsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.3.3}Retrievers Hybrid}{11}{subsection.3.3.3}%
-\contentsline {section}{\numberline {3.4}Retrievers Avanzados}{11}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}Documento Matriz (Parent Document)}{11}{subsection.3.4.1}%
-\contentsline {subsubsection}{\numberline {3.4.1.1}Multi Vector}{11}{subsubsection.3.4.1.1}%
-\contentsline {subsection}{\numberline {3.4.2}Consulta Autónoma (Self Query)}{12}{subsection.3.4.2}%
-\contentsline {subsubsection}{\numberline {3.4.2.1}Compresión Contextual}{12}{subsubsection.3.4.2.1}%
-\contentsline {subsection}{\numberline {3.4.3}Time-Weighted Vectorstore}{12}{subsection.3.4.3}%
-\contentsline {subsection}{\numberline {3.4.4}Multi-Query Retriever}{13}{subsection.3.4.4}%
-\contentsline {subsection}{\numberline {3.4.5}Long-Context Reorder}{13}{subsection.3.4.5}%
-\contentsline {section}{\numberline {3.5}Conclusión}{13}{section.3.5}%
-\contentsline {chapter}{Lista de Acr\'onimos}{15}{section*.6}%
-\contentsline {chapter}{\numberline {A}Apéndize A}{16}{appendix.Alph1}%
-\contentsline {chapter}{\numberline {B}Apéndize B}{17}{appendix.Alph2}%
-\contentsline {chapter}{Bibliografía}{18}{appendix*.8}%
+\contentsline {section}{\numberline {3.2}Consideraciones sobre la Chunkerización}{10}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Naturaleza del Contenido}{10}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Modelo y Tamaño Óptimo del Chunk}{10}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Complejidad y Longitud de las Consultas de Usuario}{10}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Uso de los Resultados Recuperados}{10}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}Limitaciones Técnicas}{10}{subsection.3.2.5}%
+\contentsline {section}{\numberline {3.3}Estrategias de Chunkerización}{11}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Chunkerización de Tamaño Fijo}{11}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Chunkerización Consciente del Contenido}{11}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Chunkerización Recursiva}{12}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Chunkerización Especializada}{13}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}Chunkerización Semántica}{13}{subsection.3.3.5}%
+\contentsline {subsubsection}{\numberline {3.3.5.1}Implementación y Ventajas}{14}{subsubsection.3.3.5.1}%
+\contentsline {subsubsection}{\numberline {3.3.5.2}Desafíos y Aplicaciones}{14}{subsubsection.3.3.5.2}%
+\contentsline {section}{\numberline {3.4}Conclusiones}{14}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Retrievers}{15}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introducción}{15}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Fundamentos de los Retrievers}{15}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Definición y Función}{15}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Rol en RAG}{15}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.3}Tipos de Retrievers Tradicionales}{16}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Retrievers Sparse}{16}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Retrievers Dense}{16}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Retrievers Hybrid}{17}{subsection.4.3.3}%
+\contentsline {section}{\numberline {4.4}Retrievers Avanzados}{17}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Documento Matriz (Parent Document)}{17}{subsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.1.1}Multi Vector}{17}{subsubsection.4.4.1.1}%
+\contentsline {subsection}{\numberline {4.4.2}Consulta Autónoma (Self Query)}{18}{subsection.4.4.2}%
+\contentsline {subsubsection}{\numberline {4.4.2.1}Compresión Contextual}{18}{subsubsection.4.4.2.1}%
+\contentsline {subsection}{\numberline {4.4.3}Time-Weighted Vectorstore}{18}{subsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.4.4}Multi-Query Retriever}{19}{subsection.4.4.4}%
+\contentsline {subsection}{\numberline {4.4.5}Long-Context Reorder}{19}{subsection.4.4.5}%
+\contentsline {section}{\numberline {4.5}Conclusión}{19}{section.4.5}%
+\contentsline {chapter}{Lista de Acr\'onimos}{21}{section*.6}%
+\contentsline {chapter}{\numberline {A}Apéndize A}{22}{appendix.Alph1}%
+\contentsline {chapter}{\numberline {B}Apéndize B}{23}{appendix.Alph2}%
+\contentsline {chapter}{Bibliografía}{24}{appendix*.8}%

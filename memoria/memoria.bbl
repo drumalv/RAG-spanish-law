@@ -1,5 +1,18 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\astroncite{Brown et~al.}{2020}]{brown2020language}
+Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J.~D., Dhariwal, P.,
+  Neelakantan, A., Shyam, P., Sastry, G., Askell, A., et~al. (2020).
+\newblock Language models are few-shot learners.
+\newblock {\em Advances in neural information processing systems},
+  33:1877--1901.
+
+\bibitem[\protect\astroncite{Devlin et~al.}{2018}]{devlin2018bert}
+Devlin, J., Chang, M.-W., Lee, K., y Toutanova, K. (2018).
+\newblock Bert: Pre-training of deep bidirectional transformers for language
+  understanding.
+\newblock {\em arXiv preprint arXiv:1810.04805}.
+
 \bibitem[\protect\astroncite{LangChain}{2024}]{langchainretrievers}
 LangChain (2024).
 \newblock Documentation for retriever modules.
@@ -15,5 +28,24 @@ Lewis, P., Perez, E., Piktus, A., Petroni, F., Karpukhin, V., Goyal, N.,
 Liu, N.~F., Lin, K., Hewitt, J., Paranjape, A., Bevilacqua, M., Petroni, F., y
   Liang, P. (2023).
 \newblock Lost in the middle: How language models use long contexts.
+
+\bibitem[\protect\astroncite{Naveed et~al.}{2023}]{naveed2023comprehensive}
+Naveed, H., Khan, A.~U., Qiu, S., Saqib, M., Anwar, S., Usman, M., Barnes, N.,
+  y Mian, A. (2023).
+\newblock A comprehensive overview of large language models.
+\newblock {\em arXiv preprint arXiv:2307.06435}.
+
+\bibitem[\protect\astroncite{Raffel et~al.}{2020}]{raffel2020exploring}
+Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., Zhou,
+  Y., Li, W., y Liu, P.~J. (2020).
+\newblock Exploring the limits of transfer learning with a unified text-to-text
+  transformer.
+\newblock {\em Journal of machine learning research}, 21(140):1--67.
+
+\bibitem[\protect\astroncite{Vaswani et~al.}{2017}]{vaswani2017attention}
+Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A.~N.,
+  Kaiser, {\L}., y Polosukhin, I. (2017).
+\newblock Attention is all you need.
+\newblock {\em Advances in neural information processing systems}, 30.
 
 \end{thebibliography}
