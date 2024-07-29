@@ -1,5 +1,11 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\astroncite{Brown et~al.}{2022}]{brown2022does}
+Brown, H., Lee, K., Mireshghallah, F., Shokri, R., y Tram{\`e}r, F. (2022).
+\newblock What does it mean for a language model to preserve privacy?
+\newblock In {\em Proceedings of the 2022 ACM conference on fairness,
+  accountability, and transparency}, pages 2280--2292.
+
 \bibitem[\protect\astroncite{Brown et~al.}{2020}]{brown2020language}
 Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J.~D., Dhariwal, P.,
   Neelakantan, A., Shyam, P., Sastry, G., Askell, A., et~al. (2020).
@@ -42,10 +48,23 @@ Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., Zhou,
   transformer.
 \newblock {\em Journal of machine learning research}, 21(140):1--67.
 
+\bibitem[\protect\astroncite{Strubell et~al.}{2020}]{strubell2020energy}
+Strubell, E., Ganesh, A., y McCallum, A. (2020).
+\newblock Energy and policy considerations for modern deep learning research.
+\newblock In {\em Proceedings of the AAAI conference on artificial
+  intelligence}, volume~34, pages 13693--13696.
+
 \bibitem[\protect\astroncite{Vaswani et~al.}{2017}]{vaswani2017attention}
 Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A.~N.,
   Kaiser, {\L}., y Polosukhin, I. (2017).
 \newblock Attention is all you need.
 \newblock {\em Advances in neural information processing systems}, 30.
+
+\bibitem[\protect\astroncite{Zhang et~al.}{2023}]{zhang2023siren}
+Zhang, Y., Li, Y., Cui, L., Cai, D., Liu, L., Fu, T., Huang, X., Zhao, E.,
+  Zhang, Y., Chen, Y., et~al. (2023).
+\newblock Siren's song in the ai ocean: a survey on hallucination in large
+  language models.
+\newblock {\em arXiv preprint arXiv:2309.01219}.
 
 \end{thebibliography}

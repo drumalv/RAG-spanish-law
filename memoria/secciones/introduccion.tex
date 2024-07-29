@@ -9,10 +9,20 @@ En los últimos años, los grandes modelos del lenguaje (LLMs) han experimentado
 
 Una metodología emergente que aborda este desafío es la generación aumentada por recuperación (retrieval augmented generation, RAG). Los sistemas RAG combinan las capacidades generativas de los LLMs con técnicas de recuperación de información, permitiendo a los modelos acceder a bases de datos externas para mejorar la precisión y relevancia de las respuestas generadas. Este enfoque es particularmente útil ya que enriquece el contexto de los LLMs de manera que son capaces de contextualizar mejor el texto que se desea generar.
 
-En esta tesis, se exploran las metodologías de chunkerización y retrieval en el contexto de la Constitución Española. La chunkerización es un proceso crítico que implica dividir un documento en fragmentos manejables, o chunks, que pueden ser más fácilmente procesados por los modelos de lenguaje. Se ha desarrollado un splitter especializado para chunkerizar los artículos de la Constitución Española de manera precisa y coherente. Este trabajo incluye una comparación detallada de diversas metodologías de chunkerización, evaluadas mediante métricas específicas para determinar la eficacia y eficiencia de cada una.
+En este trabajo, se exploran las metodologías de chunkerización y retrieval en el contexto de la Constitución Española. La chunkerización es un proceso crítico que implica dividir un documento en fragmentos manejables, o chunks, que pueden ser más fácilmente procesados por los modelos de lenguaje. Se ha desarrollado un splitter especializado para chunkerizar los artículos de la Constitución Española de manera precisa y coherente. Este trabajo incluye una comparación detallada de diversas metodologías de chunkerización, evaluadas mediante métricas específicas para determinar la eficacia y eficiencia de cada una.
 
 Además, se explicarán brevemente los conceptos fundamentales relacionados con los LLMs y los sistemas RAG, incluyendo embeddings y almacenes vectoriales (vector stores). Estos conceptos son esenciales para comprender cómo se integran las técnicas de recuperación de información con los modelos generativos, mejorando significativamente su rendimiento en tareas específicas.
 
-En resumen, esta tesis busca proporcionar una visión comprensiva de cómo los sistemas RAG pueden ser aplicados de manera efectiva. Para ello, se compararán diferentes metodologías de chunkerización y se culminará con la creación de un agente con la capacidad de contextualizar las preguntas usando la constitución española.
+En resumen, este trabajo busca proporcionar una visión comprensiva de cómo los sistemas RAG pueden ser aplicados de manera efectiva. Para ello, se compararán diferentes metodologías de chunkerización y se culminará con la creación de un agente con la capacidad de contextualizar las preguntas usando la constitución española.
 
-\subsection{Objetivos}
+\section{Objetivos}
+
+El principal objetivo de este trabajo es desarrollar un sistema RAG específicamente diseñado para interactuar con la Constitución Española. Este sistema se centrará en la creación de un agente basado en LLMs, capaz de responder a cualquier pregunta relacionada con la Constitución Española. Para lograr este objetivo principal, se llevarán a cabo las siguientes tareas específicas:
+
+\begin{enumerate}
+    \item \textbf{Comparación de métodos de chunkerización}: Se analizarán y compararán diferentes técnicas de chunkerización para determinar cuál de ellas resulta más eficiente y precisa en la segmentación de los textos legales de la Constitución Española.
+
+    \item \textbf{Desarrollo de un agente}: Se diseñará y se implementará un agente basado en LLMs capaz de responder a cualquier pregunta relacionada con la Constitución Española. Este agente deberá ser capaz de comprender y procesar consultas en lenguaje natural, proporcionando respuestas precisas y contextualizadas.
+    
+    \item \textbf{Marco teórico del estado del arte}: Proporcionar un marco teórico del estado del arte de los sistemas RAG utilizando LLMs, incluyendo una revisión de la literatura existente y las metodologías actuales en el campo de los sistemas RAG.
+\end{enumerate}

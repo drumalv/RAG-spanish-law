@@ -78,23 +78,44 @@ Entre todos estos avances han llegado infinidad de modelos y arquitecturas que h
 
 
 \section{Aplicaciones de los LLMs}
+Los LLMs han demostrado capacidades notables en diversas tareas de procesamiento del lenguaje natural. En esta sección, se describen algunas de las aplicaciones más relevantes de los LLMs.
+
 \subsection{Generación de Texto}
+La generación de texto es una de las aplicaciones más prominentes de los LLMs. Estos modelos pueden generar texto coherente y contextualizado en una variedad de estilos y formatos, desde artículos periodísticos hasta poesía y ficción. La capacidad de los LLMs para entender y replicar patrones de lenguaje humano permite su uso en la creación de contenido, asistiendo a escritores y periodistas, y automatizando la redacción de informes y documentos.
 
 \subsection{Resumen Automático}
+Los LLMs también se utilizan para la generación de resúmenes automáticos de documentos extensos. Mediante técnicas de comprensión y extracción de información, los modelos pueden condensar textos largos en versiones más breves que retienen los puntos clave. Esto es especialmente útil en campos como el periodismo, la investigación científica y la gestión de información empresarial, donde es necesario procesar grandes cantidades de texto de manera eficiente.
 
 \subsection{Traducción Automática}
+Otra aplicación importante de los LLMs es la traducción automática de textos entre diferentes idiomas. Los modelos entrenados en textos multilingües pueden traducir con alta precisión, preservando el contexto y el significado original. Esto facilita la comunicación global y el acceso a información en múltiples idiomas, apoyando tanto a usuarios individuales como a organizaciones en la superación de barreras lingüísticas.
 
 \subsection{Interacción Conversacional}
+Los LLMs se utilizan extensamente en la creación de agentes conversacionales y chatbots. Estos agentes pueden participar en diálogos naturales y brindar respuestas relevantes a las consultas de los usuarios. Aplicaciones prácticas incluyen asistentes virtuales, atención al cliente automatizada y soporte técnico. Los avances en los LLMs han permitido que estos sistemas sean más intuitivos y efectivos, mejorando la experiencia del usuario.
 
 \subsection{Respuesta a Preguntas}
+Los LLMs son capaces de responder preguntas de manera precisa y contextualizada, utilizando información extraída de grandes bases de datos y textos. Esta capacidad se emplea en sistemas de búsqueda avanzada, asistentes personales y herramientas de aprendizaje, proporcionando respuestas rápidas y precisas a consultas específicas. En el contexto de este trabajo, se desarrollará un agente basado en LLM que pueda responder a preguntas relacionadas con la Constitución Española, demostrando así el potencial de los LLMs en aplicaciones jurídicas y educativas.
+
 
 
 \section{Desafíos y Futuras Direcciones}
+
+El desarrollo y la implementación de LLMs presentan una serie de desafíos significativos que deben abordarse para maximizar su eficiencia y eficacia. En esta sección, se analizan algunos de los desafíos más críticos.
+
 \subsection{Costos Computacionales y Energéticos}
-
-\subsection{Generalización y Adaptación de Dominios}
-
-\subsection{Seguridad y Ética}
+Los LLMs requieren enormes recursos computacionales tanto para su entrenamiento como para su implementación. Este alto costo computacional no solo limita su accesibilidad sino que también tiene un impacto ambiental considerable debido al consumo de energía. \citep{strubell2020energy} destacaron que los modelos de aprendizaje profundo en NLP pueden tener un impacto energético significativo, comparable a la huella de carbono de automóviles en su ciclo de vida completo . Por lo tanto, es crucial investigar métodos más eficientes en términos de energía y cómputo, como la cuantización, el pruning y el uso de hardware especializado para reducir estos costos.
 
 \subsection{Privacidad y Datos Sensibles}
+El uso de grandes cantidades de datos para entrenar LLMs plantea serias preocupaciones sobre la privacidad. Los modelos pueden inadvertidamente memorizar y reproducir datos sensibles, lo que pone en riesgo la privacidad de los individuos. \citep{brown2022does} discutieron la importancia de definir claramente qué significa preservar la privacidad en el contexto de los modelos de lenguaje y propusieron técnicas para minimizar estos riesgos . La investigación en técnicas de anonimización de datos y el desarrollo de modelos que puedan ser entrenados con datos sintéticos o protegidos son direcciones prometedoras para abordar estas preocupaciones.
+
+\subsection{Alucinaciones}
+Los LLMs exhiben \textit{alucinaciones}, donde generan respuestas que, aunque suenen plausibles, son incorrectas o no se alinean con la información proporcionada \citep{zhang2023siren}. Las alucinaciones pueden categorizarse en tres tipos:
+
+\begin{itemize}
+    \item \textbf{Alucinación en conflicto con la entrada}: Se produce cuando los LLMs generan contenido que diverge de la información proporcionada por los usuarios.
+    \item \textbf{Alucinación en conflicto con el contexto}: Se refiere a cuando los LLMs generan contenido que contradice la información que ellos mismos han generado anteriormente.
+    \item \textbf{Alucinación en conflicto con los hechos}: Ocurre cuando los LLMs generan contenido que no se alinea con el conocimiento establecido del mundo.
+\end{itemize}
+
+Las alucinaciones representan un desafío significativo para la confiabilidad y precisión de los LLMs. Abordar este problema implica desarrollar técnicas de verificación y validación que permitan a los modelos identificar y corregir estas desviaciones antes de presentar la información al usuario.
+
 

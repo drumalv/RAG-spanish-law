@@ -137,11 +137,11 @@
 \begin{document}
 
 \input{secciones/portada.tex}
-\input{secciones/frase-favorita.tex}
+%\input{secciones/frase-favorita.tex}
 
-\pagenumbering{gobble}
-\input{secciones/agradecimientos.tex}
-\cleardoublepage
+%\pagenumbering{gobble}
+%\input{secciones/agradecimientos.tex}
+%\cleardoublepage
 
 \newpage
 \pagenumbering{roman}
@@ -155,6 +155,8 @@
 \renewcommand{\headrulewidth}{0.4pt}
 
 \pdfbookmark[0]{\contentsname}{contents}
+
+\setcounter{tocdepth}{1}
 
 \renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
 \renewcommand{\cftchapfont}{\mdseries}
@@ -177,6 +179,7 @@
 %\input{secciones/objetivos.tex}
 %\input{secciones/metodologia.tex}
 \input{secciones/capitulo1.tex}
+\input{secciones/capitulo2.tex}
 \input{secciones/capitulo4.tex}
 \input{secciones/capitulo5.tex}
 %\input{secciones/resultados-y-discusion.tex}
@@ -189,8 +192,8 @@
 \printglossary[type=\acronymtype]
 \printglossary
 
-\appendix
-\input{secciones/apendizes.tex}
+%\appendix
+%\input{secciones/apendizes.tex}
 
 \begin{singlespace}
 \begin{footnotesize}

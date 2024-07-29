@@ -7,45 +7,46 @@ Reallocating 'name_of_file' (item size: 1) to 13 items.
 Database file #1: bibliografia.bib
 Warning--entry type for "langchainretrievers" isn't style-file defined
 --line 10 of file bibliografia.bib
-You've used 8 entries,
+Warning--can't use both volume and number fields in strubell2020energy
+You've used 11 entries,
             1940 wiz_defined-function locations,
-            514 strings with 5565 characters,
-and the built_in function-call counts, 4022 in all, are:
-= -- 351
-> -- 318
-< -- 1
-+ -- 120
-- -- 118
-* -- 402
-:= -- 751
-add.period$ -- 22
-call.type$ -- 8
-change.case$ -- 97
-chr.to.int$ -- 8
-cite$ -- 8
-duplicate$ -- 101
-empty$ -- 180
-format.name$ -- 126
-if$ -- 716
+            531 strings with 6341 characters,
+and the built_in function-call counts, 5898 in all, are:
+= -- 532
+> -- 422
+< -- 4
++ -- 158
+- -- 156
+* -- 564
+:= -- 1047
+add.period$ -- 31
+call.type$ -- 11
+change.case$ -- 130
+chr.to.int$ -- 11
+cite$ -- 12
+duplicate$ -- 174
+empty$ -- 293
+format.name$ -- 167
+if$ -- 1100
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 6
-newline$ -- 41
-num.names$ -- 24
-pop$ -- 86
+missing$ -- 9
+newline$ -- 56
+num.names$ -- 33
+pop$ -- 125
 preamble$ -- 1
-purify$ -- 97
+purify$ -- 130
 quote$ -- 0
-skip$ -- 81
+skip$ -- 144
 stack$ -- 0
-substring$ -- 176
-swap$ -- 14
-text.length$ -- 0
+substring$ -- 300
+swap$ -- 46
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 48
-warning$ -- 0
-while$ -- 22
+type$ -- 66
+warning$ -- 1
+while$ -- 34
 width$ -- 0
-write$ -- 98
-(There was 1 warning)
+write$ -- 137
+(There were 2 warnings)
