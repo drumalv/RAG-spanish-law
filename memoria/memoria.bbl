@@ -1,5 +1,17 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\astroncite{nan}{2023}]{nanonets2023rag}
+ (2023).
+\newblock Building a retrieval-augmented generation (rag) app.
+
+\bibitem[\protect\astroncite{nvi}{2023}]{nvidia2023rag}
+ (2023).
+\newblock Rag 101: Retrieval-augmented generation questions answered.
+
+\bibitem[\protect\astroncite{dat}{2023}]{datastax2023rag}
+ (2023).
+\newblock Retrieval-augmented generation (rag): A comprehensive guide.
+
 \bibitem[\protect\astroncite{Brown et~al.}{2022}]{brown2022does}
 Brown, H., Lee, K., Mireshghallah, F., Shokri, R., y Tram{\`e}r, F. (2022).
 \newblock What does it mean for a language model to preserve privacy?
@@ -18,6 +30,12 @@ Devlin, J., Chang, M.-W., Lee, K., y Toutanova, K. (2018).
 \newblock Bert: Pre-training of deep bidirectional transformers for language
   understanding.
 \newblock {\em arXiv preprint arXiv:1810.04805}.
+
+\bibitem[\protect\astroncite{Gao et~al.}{2023}]{gao2023retrieval}
+Gao, Y., Xiong, Y., Gao, X., Jia, K., Pan, J., Bi, Y., Dai, Y., Sun, J., y
+  Wang, H. (2023).
+\newblock Retrieval-augmented generation for large language models: A survey.
+\newblock {\em arXiv preprint arXiv:2312.10997}.
 
 \bibitem[\protect\astroncite{LangChain}{2024}]{langchainretrievers}
 LangChain (2024).
@@ -59,6 +77,10 @@ Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A.~N.,
   Kaiser, {\L}., y Polosukhin, I. (2017).
 \newblock Attention is all you need.
 \newblock {\em Advances in neural information processing systems}, 30.
+
+\bibitem[\protect\astroncite{Vergadia}{2023}]{cloudgirl2023rag}
+Vergadia, P. (2023).
+\newblock The secret sauce of rag: Vector search and embeddings.
 
 \bibitem[\protect\astroncite{Zhang et~al.}{2023}]{zhang2023siren}
 Zhang, Y., Li, Y., Cui, L., Cai, D., Liu, L., Fu, T., Huang, X., Zhao, E.,

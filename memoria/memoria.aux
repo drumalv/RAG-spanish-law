@@ -86,84 +86,103 @@
 \citation{zhang2023siren}
 \@writefile{toc}{\contentsline {subsection}{\numberline {2.6.2}Privacidad y Datos Sensibles}{9}{subsection.2.6.2}\protected@file@percent }
 \@writefile{toc}{\contentsline {subsection}{\numberline {2.6.3}Alucinaciones}{9}{subsection.2.6.3}\protected@file@percent }
+\citation{gao2023retrieval}
 \@writefile{toc}{\contentsline {chapter}{\numberline {3}Retrieval Augmented Generation (RAGs)}{11}{chapter.3}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{loa}{\addvspace {10\p@ }}
 \newlabel{Retrieval Augmented Generation (RAGs)}{{3}{11}{Retrieval Augmented Generation (RAGs)}{chapter.3}{}}
-\@writefile{toc}{\contentsline {chapter}{\numberline {4}Estrategias de chunkerización para LLMs}{13}{chapter.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3.1}Introducción}{11}{section.3.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3.2}Motivación y Aplicaciones}{11}{section.3.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3.3}Componentes Principales}{11}{section.3.3}\protected@file@percent }
+\citation{cloudgirl2023rag,datastax2023rag}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.1}{\ignorespaces Flujo de trabajo de RAG mostrando la integración de documentos recuperados para mejorar la generación de texto.}}{12}{figure.3.1}\protected@file@percent }
+\newlabel{fig:rag}{{3.1}{12}{Flujo de trabajo de RAG mostrando la integración de documentos recuperados para mejorar la generación de texto}{figure.3.1}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3.1}Embeddings en Retrieval-Augmented Generation}{12}{subsection.3.3.1}\protected@file@percent }
+\citation{nvidia2023rag}
+\citation{datastax2023rag}
+\citation{cloudgirl2023rag}
+\citation{nanonets2023rag}
+\citation{cloudgirl2023rag,nvidia2023rag}
+\@writefile{toc}{\contentsline {section}{\numberline {3.4}Desafíos y Futuras Direcciones}{13}{section.3.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\numberline {4}Estrategias de chunkerización para LLMs}{15}{chapter.4}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{loa}{\addvspace {10\p@ }}
-\newlabel{Estrategias de chunkerización}{{4}{13}{Estrategias de chunkerización para LLMs}{chapter.4}{}}
-\@writefile{toc}{\contentsline {section}{\numberline {4.1}Introducción}{13}{section.4.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {4.2}Consideraciones sobre la Chunkerización}{14}{section.4.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.1}Naturaleza del Contenido}{14}{subsection.4.2.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.2}Modelo y Tamaño Óptimo del Chunk}{14}{subsection.4.2.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.3}Complejidad y Longitud de las Consultas de Usuario}{14}{subsection.4.2.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.4}Uso de los Resultados Recuperados}{14}{subsection.4.2.4}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.5}Limitaciones Técnicas}{14}{subsection.4.2.5}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {4.3}Estrategias de Chunkerización}{15}{section.4.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.1}Chunkerización de Tamaño Fijo}{15}{subsection.4.3.1}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces Ejemplo de chunkerización tamaño fijo sin overload}}{15}{figure.4.1}\protected@file@percent }
-\newlabel{fig:imagen_fijo}{{4.1}{15}{Ejemplo de chunkerización tamaño fijo sin overload}{figure.4.1}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.2}Chunkerización Consciente del Contenido}{15}{subsection.4.3.2}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces Ejemplo de chunkerización tamaño fijo con overload}}{16}{figure.4.2}\protected@file@percent }
-\newlabel{fig:imagen_fijo_overload}{{4.2}{16}{Ejemplo de chunkerización tamaño fijo con overload}{figure.4.2}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.3}Chunkerización Recursiva}{16}{subsection.4.3.3}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {4.3}{\ignorespaces Ejemplo de chunkerización recursiva}}{16}{figure.4.3}\protected@file@percent }
-\newlabel{fig:imagen_recursiva}{{4.3}{16}{Ejemplo de chunkerización recursiva}{figure.4.3}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.4}Chunkerización Especializada}{17}{subsection.4.3.4}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {4.4}{\ignorespaces Ejemplo de chunkerización Especializada}}{17}{figure.4.4}\protected@file@percent }
-\newlabel{fig:imagen_chunk_md}{{4.4}{17}{Ejemplo de chunkerización Especializada}{figure.4.4}{}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.5}Chunkerización Semántica}{17}{subsection.4.3.5}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.3.5.1}Implementación y Ventajas}{18}{subsubsection.4.3.5.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.3.5.2}Desafíos y Aplicaciones}{18}{subsubsection.4.3.5.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {4.4}Conclusiones}{18}{section.4.4}\protected@file@percent }
-\@writefile{toc}{\contentsline {chapter}{\numberline {5}Retrievers}{19}{chapter.5}\protected@file@percent }
+\newlabel{Estrategias de chunkerización}{{4}{15}{Estrategias de chunkerización para LLMs}{chapter.4}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.1}Introducción}{15}{section.4.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4.2}Consideraciones sobre la Chunkerización}{16}{section.4.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.1}Naturaleza del Contenido}{16}{subsection.4.2.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.2}Modelo y Tamaño Óptimo del Chunk}{16}{subsection.4.2.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.3}Complejidad y Longitud de las Consultas de Usuario}{16}{subsection.4.2.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.4}Uso de los Resultados Recuperados}{16}{subsection.4.2.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.5}Limitaciones Técnicas}{16}{subsection.4.2.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4.3}Estrategias de Chunkerización}{17}{section.4.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.1}Chunkerización de Tamaño Fijo}{17}{subsection.4.3.1}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces Ejemplo de chunkerización tamaño fijo sin overload}}{17}{figure.4.1}\protected@file@percent }
+\newlabel{fig:imagen_fijo}{{4.1}{17}{Ejemplo de chunkerización tamaño fijo sin overload}{figure.4.1}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.2}Chunkerización Consciente del Contenido}{17}{subsection.4.3.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces Ejemplo de chunkerización tamaño fijo con overload}}{18}{figure.4.2}\protected@file@percent }
+\newlabel{fig:imagen_fijo_overload}{{4.2}{18}{Ejemplo de chunkerización tamaño fijo con overload}{figure.4.2}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.3}Chunkerización Recursiva}{18}{subsection.4.3.3}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.3}{\ignorespaces Ejemplo de chunkerización recursiva}}{18}{figure.4.3}\protected@file@percent }
+\newlabel{fig:imagen_recursiva}{{4.3}{18}{Ejemplo de chunkerización recursiva}{figure.4.3}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.4}Chunkerización Especializada}{19}{subsection.4.3.4}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4.4}{\ignorespaces Ejemplo de chunkerización Especializada}}{19}{figure.4.4}\protected@file@percent }
+\newlabel{fig:imagen_chunk_md}{{4.4}{19}{Ejemplo de chunkerización Especializada}{figure.4.4}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3.5}Chunkerización Semántica}{19}{subsection.4.3.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.3.5.1}Implementación y Ventajas}{20}{subsubsection.4.3.5.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {4.3.5.2}Desafíos y Aplicaciones}{20}{subsubsection.4.3.5.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4.4}Conclusiones}{20}{section.4.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{\numberline {5}Retrievers}{21}{chapter.5}\protected@file@percent }
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{loa}{\addvspace {10\p@ }}
-\@writefile{toc}{\contentsline {section}{\numberline {5.1}Introducción}{19}{section.5.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {5.2}Fundamentos de los Retrievers}{19}{section.5.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.2.1}Definición y Función}{19}{subsection.5.2.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.2.2}Rol en RAG}{19}{subsection.5.2.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {5.1}Introducción}{21}{section.5.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {5.2}Fundamentos de los Retrievers}{21}{section.5.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2.1}Definición y Función}{21}{subsection.5.2.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2.2}Rol en RAG}{21}{subsection.5.2.2}\protected@file@percent }
 \citation{lewis2020retrieval}
 \citation{lewis2020retrieval}
-\@writefile{lof}{\contentsline {figure}{\numberline {5.1}{\ignorespaces Esquema de un RAG}}{20}{figure.5.1}\protected@file@percent }
-\newlabel{fig:retriever}{{5.1}{20}{Esquema de un RAG}{figure.5.1}{}}
-\@writefile{toc}{\contentsline {section}{\numberline {5.3}Tipos de Retrievers Tradicionales}{20}{section.5.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.3.1}Retrievers Sparse}{20}{subsection.5.3.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.3.2}Retrievers Dense}{20}{subsection.5.3.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {5.1}{\ignorespaces Esquema de un RAG}}{22}{figure.5.1}\protected@file@percent }
+\newlabel{fig:retriever}{{5.1}{22}{Esquema de un RAG}{figure.5.1}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.3}Tipos de Retrievers Tradicionales}{22}{section.5.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.3.1}Retrievers Sparse}{22}{subsection.5.3.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.3.2}Retrievers Dense}{22}{subsection.5.3.2}\protected@file@percent }
 \citation{langchainretrievers}
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.3.3}Retrievers Hybrid}{21}{subsection.5.3.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {5.4}Retrievers Avanzados}{21}{section.5.4}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.4.1}Documento Matriz (Parent Document)}{21}{subsection.5.4.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {5.4.1.1}Multi Vector}{21}{subsubsection.5.4.1.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.3.3}Retrievers Hybrid}{23}{subsection.5.3.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {5.4}Retrievers Avanzados}{23}{section.5.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.4.1}Documento Matriz (Parent Document)}{23}{subsection.5.4.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {5.4.1.1}Multi Vector}{23}{subsubsection.5.4.1.1}\protected@file@percent }
 \citation{langchainretrievers}
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.4.2}Consulta Autónoma (Self Query)}{22}{subsection.5.4.2}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {5.2}{\ignorespaces Esquema de un Self Query retriever \citep  {langchainretrievers}}}{22}{figure.5.2}\protected@file@percent }
-\newlabel{fig:retrieverselfquery}{{5.2}{22}{Esquema de un Self Query retriever \citep {langchainretrievers}}{figure.5.2}{}}
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {5.4.2.1}Compresión Contextual}{22}{subsubsection.5.4.2.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.4.3}Time-Weighted Vectorstore}{22}{subsection.5.4.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.4.2}Consulta Autónoma (Self Query)}{24}{subsection.5.4.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {5.2}{\ignorespaces Esquema de un Self Query retriever \citep  {langchainretrievers}}}{24}{figure.5.2}\protected@file@percent }
+\newlabel{fig:retrieverselfquery}{{5.2}{24}{Esquema de un Self Query retriever \citep {langchainretrievers}}{figure.5.2}{}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {5.4.2.1}Compresión Contextual}{24}{subsubsection.5.4.2.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.4.3}Time-Weighted Vectorstore}{24}{subsection.5.4.3}\protected@file@percent }
 \citation{liu2023lost}
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.4.4}Multi-Query Retriever}{23}{subsection.5.4.4}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.4.5}Long-Context Reorder}{23}{subsection.5.4.5}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {5.5}Conclusión}{23}{section.5.5}\protected@file@percent }
-\@writefile{toc}{\contentsline {chapter}{Lista de Acr\'onimos}{25}{section*.6}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.4.4}Multi-Query Retriever}{25}{subsection.5.4.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.4.5}Long-Context Reorder}{25}{subsection.5.4.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {5.5}Conclusión}{25}{section.5.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {chapter}{Lista de Acr\'onimos}{27}{section*.6}\protected@file@percent }
 \bibdata{bibliografia}
-\bibcite{brown2022does}{{1}{2022}{{Brown et~al.}}{{}}}
-\bibcite{brown2020language}{{2}{2020}{{Brown et~al.}}{{}}}
-\bibcite{devlin2018bert}{{3}{2018}{{Devlin et~al.}}{{}}}
-\bibcite{langchainretrievers}{{4}{2024}{{LangChain}}{{}}}
-\bibcite{lewis2020retrieval}{{5}{2020}{{Lewis et~al.}}{{}}}
-\bibcite{liu2023lost}{{6}{2023}{{Liu et~al.}}{{}}}
-\bibcite{naveed2023comprehensive}{{7}{2023}{{Naveed et~al.}}{{}}}
-\bibcite{raffel2020exploring}{{8}{2020}{{Raffel et~al.}}{{}}}
-\bibcite{strubell2020energy}{{9}{2020}{{Strubell et~al.}}{{}}}
-\bibcite{vaswani2017attention}{{10}{2017}{{Vaswani et~al.}}{{}}}
-\bibcite{zhang2023siren}{{11}{2023}{{Zhang et~al.}}{{}}}
-\@writefile{toc}{\contentsline {chapter}{Bibliografía}{26}{chapter*.8}\protected@file@percent }
+\bibcite{nanonets2023rag}{{1}{2023}{{nan}}{{}}}
+\bibcite{nvidia2023rag}{{2}{2023}{{nvi}}{{}}}
+\bibcite{datastax2023rag}{{3}{2023}{{dat}}{{}}}
+\bibcite{brown2022does}{{4}{2022}{{Brown et~al.}}{{}}}
+\bibcite{brown2020language}{{5}{2020}{{Brown et~al.}}{{}}}
+\bibcite{devlin2018bert}{{6}{2018}{{Devlin et~al.}}{{}}}
+\bibcite{gao2023retrieval}{{7}{2023}{{Gao et~al.}}{{}}}
+\bibcite{langchainretrievers}{{8}{2024}{{LangChain}}{{}}}
+\bibcite{lewis2020retrieval}{{9}{2020}{{Lewis et~al.}}{{}}}
+\bibcite{liu2023lost}{{10}{2023}{{Liu et~al.}}{{}}}
+\bibcite{naveed2023comprehensive}{{11}{2023}{{Naveed et~al.}}{{}}}
+\bibcite{raffel2020exploring}{{12}{2020}{{Raffel et~al.}}{{}}}
+\bibcite{strubell2020energy}{{13}{2020}{{Strubell et~al.}}{{}}}
+\bibcite{vaswani2017attention}{{14}{2017}{{Vaswani et~al.}}{{}}}
+\bibcite{cloudgirl2023rag}{{15}{2023}{{Vergadia}}{{}}}
+\bibcite{zhang2023siren}{{16}{2023}{{Zhang et~al.}}{{}}}
+\@writefile{toc}{\contentsline {chapter}{Bibliografía}{28}{chapter*.8}\protected@file@percent }
 \providecommand\@xdylanguage[2]{}
 \@xdylanguage{acronym}{spanish-traditional}
 \providecommand\@gls@codepage[2]{}
@@ -172,4 +191,4 @@
 \@xdylanguage{main}{spanish-traditional}
 \providecommand\@gls@codepage[2]{}
 \@gls@codepage{main}{utf8}
-\gdef \@abspage@last{31}
+\gdef \@abspage@last{33}

@@ -7,46 +7,57 @@ Reallocating 'name_of_file' (item size: 1) to 13 items.
 Database file #1: bibliografia.bib
 Warning--entry type for "langchainretrievers" isn't style-file defined
 --line 10 of file bibliografia.bib
+Warning--entry type for "cloudgirl2023rag" isn't style-file defined
+--line 100 of file bibliografia.bib
+Warning--entry type for "datastax2023rag" isn't style-file defined
+--line 107 of file bibliografia.bib
+Warning--entry type for "nvidia2023rag" isn't style-file defined
+--line 113 of file bibliografia.bib
+Warning--entry type for "nanonets2023rag" isn't style-file defined
+--line 119 of file bibliografia.bib
+Warning--to sort, need author or key in datastax2023rag
+Warning--to sort, need author or key in nvidia2023rag
+Warning--to sort, need author or key in nanonets2023rag
 Warning--can't use both volume and number fields in strubell2020energy
-You've used 11 entries,
+You've used 16 entries,
             1940 wiz_defined-function locations,
-            531 strings with 6341 characters,
-and the built_in function-call counts, 5898 in all, are:
-= -- 532
-> -- 422
-< -- 4
-+ -- 158
-- -- 156
-* -- 564
-:= -- 1047
-add.period$ -- 31
-call.type$ -- 11
-change.case$ -- 130
-chr.to.int$ -- 11
-cite$ -- 12
-duplicate$ -- 174
-empty$ -- 293
-format.name$ -- 167
-if$ -- 1100
+            544 strings with 6886 characters,
+and the built_in function-call counts, 7248 in all, are:
+= -- 656
+> -- 477
+< -- 5
++ -- 180
+- -- 176
+* -- 685
+:= -- 1284
+add.period$ -- 42
+call.type$ -- 16
+change.case$ -- 165
+chr.to.int$ -- 16
+cite$ -- 23
+duplicate$ -- 227
+empty$ -- 382
+format.name$ -- 189
+if$ -- 1346
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 9
-newline$ -- 56
-num.names$ -- 33
-pop$ -- 125
+missing$ -- 10
+newline$ -- 77
+num.names$ -- 39
+pop$ -- 158
 preamble$ -- 1
-purify$ -- 130
+purify$ -- 165
 quote$ -- 0
-skip$ -- 144
+skip$ -- 184
 stack$ -- 0
-substring$ -- 300
-swap$ -- 46
+substring$ -- 365
+swap$ -- 52
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 66
-warning$ -- 1
-while$ -- 34
+type$ -- 96
+warning$ -- 4
+while$ -- 38
 width$ -- 0
-write$ -- 137
-(There were 2 warnings)
+write$ -- 186
+(There were 9 warnings)

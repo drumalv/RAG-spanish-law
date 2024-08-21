@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.16)  29 JUL 2024 19:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.16)  21 AUG 2024 17:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1601,11 +1601,11 @@ LaTeX Info: Redefining \% on input line 1.
 LaTeX Font Info:    Font shape `T1/qhv/m/sc' will be
 (Font)              scaled to size 10.29301pt on input line 2.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 9.40002pt on input line 67.
+(Font)              scaled to size 9.40002pt on input line 62.
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 9.40002pt on input line 67.
+(Font)              scaled to size 9.40002pt on input line 62.
 LaTeX Font Info:    Font shape `T1/qhv/b/sc' will be
-(Font)              scaled to size 9.40002pt on input line 67.
+(Font)              scaled to size 9.40002pt on input line 62.
  [1
 
 \openout4 = `memoria.xdy'.
@@ -1704,7 +1704,7 @@ LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
 
 {C:/Users/alvar/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf
 .enc}]
-<figuras/capitulo1/transformer_architecture.png, id=223, 277.035pt x 411.78844p
+<figuras/capitulo1/transformer_architecture.png, id=245, 277.035pt x 411.78844p
 t>
 File: figuras/capitulo1/transformer_architecture.png Graphic file (type png)
 <use figuras/capitulo1/transformer_architecture.png>
@@ -1715,7 +1715,7 @@ n input line 31.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figuras/capitulo1/llm_evolution.png, id=226, 812.28468pt x 286.06876pt>
+<figuras/capitulo1/llm_evolution.png, id=248, 812.28468pt x 286.06876pt>
 File: figuras/capitulo1/llm_evolution.png Graphic file (type png)
 <use figuras/capitulo1/llm_evolution.png>
 Package pdftex.def Info: figuras/capitulo1/llm_evolution.png  used on input lin
@@ -1739,7 +1739,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [4]
-<figuras/capitulo1/t5.png, id=236, 633.86812pt x 228.10219pt>
+<figuras/capitulo1/t5.png, id=258, 633.86812pt x 228.10219pt>
 File: figuras/capitulo1/t5.png Graphic file (type png)
 <use figuras/capitulo1/t5.png>
 Package pdftex.def Info: figuras/capitulo1/t5.png  used on input line 55.
@@ -1768,7 +1768,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
  []
 
-<figuras/capitulo1/gpt3.png, id=250, 378.66469pt x 344.03531pt>
+<figuras/capitulo1/gpt3.png, id=272, 378.66469pt x 344.03531pt>
 File: figuras/capitulo1/gpt3.png Graphic file (type png)
 <use figuras/capitulo1/gpt3.png>
 Package pdftex.def Info: figuras/capitulo1/gpt3.png  used on input line 71.
@@ -1826,16 +1826,45 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 ]
 Cap\'{\i }tulo 3.
-) (secciones/capitulo4.tex [11
+[11
 
-] [12
+]
+<figuras/capitulo2/rag.png, id=330, 442.65375pt x 266.49562pt>
+File: figuras/capitulo2/rag.png Graphic file (type png)
+<use figuras/capitulo2/rag.png>
+Package pdftex.def Info: figuras/capitulo2/rag.png  used on input line 31.
+(pdftex.def)             Requested size: 341.43437pt x 205.56822pt.
+LaTeX Info: Redefining \. on input line 42.
+LaTeX Info: Redefining \% on input line 42.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[12 <./figuras/capitulo2/rag.png>]) (secciones/capitulo4.tex
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[13] [14
 
 ]
 Cap\'{\i }tulo 4.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [13
+ [15
 
 ]
 LaTeX Info: Redefining \. on input line 39.
@@ -1849,15 +1878,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[14]
-<figuras/capitulo4/character_splitter_100_0.png, id=322, 486.31688pt x 217.1864
+[16]
+<figuras/capitulo4/character_splitter_100_0.png, id=380, 486.31688pt x 217.1864
 pt>
 File: figuras/capitulo4/character_splitter_100_0.png Graphic file (type png)
 <use figuras/capitulo4/character_splitter_100_0.png>
 Package pdftex.def Info: figuras/capitulo4/character_splitter_100_0.png  used o
 n input line 50.
 (pdftex.def)             Requested size: 341.43437pt x 152.48346pt.
-<figuras/capitulo4/character_splitter_100_20.png, id=323, 484.43484pt x 301.125
+<figuras/capitulo4/character_splitter_100_20.png, id=381, 484.43484pt x 301.125
 pt>
 File: figuras/capitulo4/character_splitter_100_20.png Graphic file (type png)
 <use figuras/capitulo4/character_splitter_100_20.png>
@@ -1878,8 +1907,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[15 <./figuras/capitulo4/character_splitter_100_0.png>]
-<figuras/capitulo4/recursive_character_splitter_250_0.png, id=331, 471.26062pt 
+[17 <./figuras/capitulo4/character_splitter_100_0.png>]
+<figuras/capitulo4/recursive_character_splitter_250_0.png, id=389, 471.26062pt 
 x 339.89484pt>
 File: figuras/capitulo4/recursive_character_splitter_250_0.png Graphic file (ty
 pe png)
@@ -1898,9 +1927,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[16 <./figuras/capitulo4/character_splitter_100_20.png> <./figuras/capitulo4/re
+[18 <./figuras/capitulo4/character_splitter_100_20.png> <./figuras/capitulo4/re
 cursive_character_splitter_250_0.png>]
-<figuras/capitulo4/character_md_100.png, id=339, 471.26062pt x 410.2828pt>
+<figuras/capitulo4/character_md_100.png, id=397, 471.26062pt x 410.2828pt>
 File: figuras/capitulo4/character_md_100.png Graphic file (type png)
 <use figuras/capitulo4/character_md_100.png>
 Package pdftex.def Info: figuras/capitulo4/character_md_100.png  used on input 
@@ -1920,7 +1949,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[17 <./figuras/capitulo4/character_md_100.png>]) (secciones/capitulo5.tex
+[19 <./figuras/capitulo4/character_md_100.png>]) (secciones/capitulo5.tex
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
 
@@ -1932,9 +1961,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[18]
+[20]
 Cap\'{\i }tulo 5.
-<figuras/capitulo5/retriever.jpg, id=354, 1226.5825pt x 841.1425pt>
+<figuras/capitulo5/retriever.jpg, id=413, 1226.5825pt x 841.1425pt>
 File: figuras/capitulo5/retriever.jpg Graphic file (type jpg)
 <use figuras/capitulo5/retriever.jpg>
 Package pdftex.def Info: figuras/capitulo5/retriever.jpg  used on input line 25
@@ -1943,7 +1972,7 @@ Package pdftex.def Info: figuras/capitulo5/retriever.jpg  used on input line 25
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[19
+[21
 
 
 ]
@@ -1958,7 +1987,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[20 <./figuras/capitulo5/retriever.jpg>]
+[22 <./figuras/capitulo5/retriever.jpg>]
 LaTeX Info: Redefining \. on input line 66.
 LaTeX Info: Redefining \% on input line 66.
 
@@ -1970,8 +1999,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[21]
-<figuras/capitulo5/self_query.jpg, id=382, 4015.0pt x 1252.68pt>
+[23]
+<figuras/capitulo5/self_query.jpg, id=440, 4015.0pt x 1252.68pt>
 File: figuras/capitulo5/self_query.jpg Graphic file (type jpg)
 <use figuras/capitulo5/self_query.jpg>
 Package pdftex.def Info: figuras/capitulo5/self_query.jpg  used on input line 7
@@ -1988,7 +2017,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[22 <./figuras/capitulo5/self_query.jpg>])
+[24 <./figuras/capitulo5/self_query.jpg>])
 LaTeX Info: Redefining \. on input line 189.
 LaTeX Info: Redefining \% on input line 189.
 
@@ -2000,7 +2029,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[23] [24
+[25] [26
 
 ] (memoria.acr
 
@@ -2015,23 +2044,23 @@ line 28.
 No file memoria.gls.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
 (Font)              scaled to size 8.46002pt on input line 199.
-[25
+[27
 
 
 ] (memoria.bbl
 LaTeX Font Info:    Font shape `T1/qhv/m/it' will be
-(Font)              scaled to size 8.46002pt on input line 6.
+(Font)              scaled to size 8.46002pt on input line 18.
 
-Underfull \hbox (badness 1783) in paragraph at lines 10--15
+Underfull \hbox (badness 1783) in paragraph at lines 22--27
 \T1/qhv/m/n/9 J. D., Dha-ri-wal, P., Nee-la-kan-tan, A., Sh-yam, P.,
  []
 
 
-Underfull \hbox (badness 1478) in paragraph at lines 17--21
+Underfull \hbox (badness 1478) in paragraph at lines 29--33
 []\T1/qhv/m/n/9 Devlin, J., Chang, M.-W., Lee, K., y Tou-ta-no-va, K.
  []
 
-) [26
+) [28
 
 
 ] (memoria.aux
@@ -2051,16 +2080,16 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `memoria.out' has not changed.
-(rerunfilecheck)             Checksum: 4FCA7A20041A4A7C0F43AC56303A1167;4465.
+(rerunfilecheck)             Checksum: C58ED84E5AEEC929C0A6255500D77331;5162.
  ) 
 Here is how much of TeX's memory you used:
- 36473 strings out of 475248
- 660880 string characters out of 5757813
+ 36513 strings out of 475248
+ 661693 string characters out of 5757813
  1936801 words of memory out of 5000000
- 57110 multiletter control sequences out of 15000+600000
+ 57137 multiletter control sequences out of 15000+600000
  650825 words of font info for 138 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 94i,17n,93p,2265b,1226s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,17n,93p,2265b,1242s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/alvar/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXM
 I.pfb><C:/Users/alvar/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/Ne
 wTXMI7.pfb><C:/Users/alvar/AppData/Local/Programs/MiKTeX/fonts/type1/public/kpf
@@ -2070,9 +2099,9 @@ public/tex-gyre/qhvr.pfb><C:/Users/alvar/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/public/tex-gyre/qhvri.pfb><C:/Users/alvar/AppData/Local/Programs/MiKTeX/fon
 ts/type1/public/newtx/txsys.pfb><C:/Users/alvar/AppData/Local/Programs/MiKTeX/f
 onts/type1/public/newtx/ztmr.pfb>
-Output written on memoria.pdf (31 pages, 1620033 bytes).
+Output written on memoria.pdf (33 pages, 1919221 bytes).
 PDF statistics:
- 486 PDF objects out of 1000 (max. 8388607)
- 126 named destinations out of 1000 (max. 500000)
- 279 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 547 PDF objects out of 1000 (max. 8388607)
+ 139 named destinations out of 1000 (max. 500000)
+ 316 words of extra memory for PDF output out of 10000 (max. 10000000)
 
