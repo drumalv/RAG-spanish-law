@@ -1,17 +1,33 @@
 \babel@toc {spanish}{}\relax 
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Arquitectura básica de un Transformer.}}{5}{figure.2.1}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Evolución cronológica de los principales LLMs.}}{5}{figure.2.2}%
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Ejemplo unificado de formación texto a texto, imagen origen de \citep {raffel2020exploring}}}{6}{figure.2.3}%
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Zero-shot, one-shot y few-shot contrastado con finetunning tradicional. Imagen origen de \citep {brown2020language}}}{7}{figure.2.4}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Flujo de trabajo de RAG mostrando la integración de documentos recuperados para mejorar la generación de texto.}}{12}{figure.3.1}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Arquitectura básica de un Transformer.}}{6}{figure.caption.5}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Evolución cronológica de los principales LLMs.}}{7}{figure.caption.6}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Ejemplo unificado de formación texto a texto, imagen origen de \citep {raffel2020exploring}}}{8}{figure.caption.7}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Zero-shot, one-shot y few-shot contrastado con finetunning tradicional. Imagen origen de \citep {brown2020language}}}{9}{figure.caption.8}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Ejemplo de chunkerización tamaño fijo sin overload}}{17}{figure.4.1}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Ejemplo de chunkerización tamaño fijo con overload}}{18}{figure.4.2}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Ejemplo de chunkerización recursiva}}{18}{figure.4.3}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Ejemplo de chunkerización Especializada}}{19}{figure.4.4}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Flujo de trabajo de RAG mostrando la integración de documentos recuperados para mejorar la generación de texto.}}{14}{figure.caption.9}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Ejemplos de embeddings. \citep {openai}}}{15}{figure.caption.10}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Esquema de un RAG}}{22}{figure.5.1}%
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Esquema de un Self Query retriever \citep {langchainretrievers}}}{24}{figure.5.2}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Ejemplo de chunkerización tamaño fijo sin overload}}{19}{figure.caption.11}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Ejemplo de chunkerización tamaño fijo con overload}}{20}{figure.caption.12}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Ejemplo de chunkerización recursiva}}{20}{figure.caption.13}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Ejemplo de chunkerización Especializada}}{21}{figure.caption.14}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Esquema de un RAG}}{26}{figure.caption.15}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Esquema de un Self Query retriever \citep {langchainretrievers}}}{28}{figure.caption.16}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Esquema de un LLM como modelo juez}}{31}{figure.caption.17}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Benchmark sobre el precio de los LLMs evaluados. \citep {artificialanalysis}}}{34}{figure.caption.18}%
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Benchmark sobre la velocidad de respuesta de los LLMs evaluados. \citep {artificialanalysis}}}{34}{figure.caption.19}%
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Gráfico comparativa calidad contra precio. \citep {artificialanalysis}}}{35}{figure.caption.20}%
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Gráfico calidad embeddings OpenAI \citep {openai}}}{35}{figure.caption.21}%
+\contentsline {figure}{\numberline {7.5}{\ignorespaces Gráfico comparativo de los splitters evaluados}}{44}{figure.caption.28}%
+\contentsline {figure}{\numberline {7.6}{\ignorespaces Ejemplo de pregunta en Chat con contexto expandido}}{45}{figure.caption.29}%
+\contentsline {figure}{\numberline {7.7}{\ignorespaces Ejemplo de pregunta en Chat}}{46}{figure.caption.30}%
+\contentsline {figure}{\numberline {7.8}{\ignorespaces Arquitectura desarrollada}}{46}{figure.caption.31}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Benchmark sobre distintas métricas para evaluar LLMs. \citep {artificialanalysis}}}{53}{figure.caption.33}%

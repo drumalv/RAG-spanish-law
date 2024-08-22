@@ -99,6 +99,30 @@ El "Long Context Reorder" utiliza un enfoque específico conocido como "Lost in 
 
 Estos retrievers avanzados representan un conjunto diverso de herramientas diseñadas para mejorar la eficiencia y efectividad de los sistemas RAG, facilitando respuestas más precisas y contextuales en una amplia variedad de aplicaciones.
 
+\section{Métricas para evaluar el sistema RAG}
+
+En los sistemas RAG, evaluar la calidad de las respuestas generadas es crucial para garantizar que la información recuperada y generada sea relevante, precisa y coherente con el contexto. En este apartado, describimos las principales métricas que se utilizan para evaluar los sistemas RAG, basándonos en el marco propuesto en RAGAS \citep{ragas2023}.
+
+\subsection{Faithfulness (Fidelidad)}
+La fidelidad mide hasta qué punto la respuesta generada está basada en la información proporcionada por el contexto recuperado. En otras palabras, se asegura de que las afirmaciones hechas en la respuesta puedan inferirse directamente del contexto proporcionado y no se generen "alucinaciones". Para medir la fidelidad, se divide la respuesta en varias afirmaciones y se verifica si cada una de ellas está respaldada por el contexto. El puntaje de fidelidad se calcula como la proporción de afirmaciones correctas sobre el total de afirmaciones generadas. Esta métrica es especialmente importante en dominios donde la precisión factual es fundamental, como en el derecho y la medicina \citep{ragas2023}.
+
+\subsection{Answer Relevance (Relevancia de la Respuesta)}
+La relevancia de la respuesta evalúa si la respuesta generada aborda directamente la pregunta planteada, independientemente de si es factualmente correcta o no. Una respuesta relevante debe centrarse en responder la pregunta de manera adecuada, evitando información redundante o innecesaria. Para medir esta métrica, se generan preguntas alternativas a partir de la respuesta y se calcula la similitud entre estas preguntas y la pregunta original mediante técnicas de embeddings. Cuanto mayor sea la similitud, mayor será el puntaje de relevancia de la respuesta \citep{ragas2023}.
+
+\subsection{Context Relevance (Relevancia del Contexto)}
+La relevancia del contexto mide hasta qué punto el contexto recuperado es relevante para responder la pregunta. Un buen contexto debe proporcionar la información justa y necesaria, sin añadir datos irrelevantes que puedan confundir al modelo de generación. Para evaluar esta métrica, se extraen oraciones clave del contexto que son relevantes para la pregunta y se calcula la proporción de oraciones relevantes sobre el total del contexto. Esta métrica es crítica en sistemas que trabajan con contextos largos, ya que los modelos de lenguaje grandes tienden a ser menos efectivos cuando el contexto contiene demasiada información innecesaria \citep{ragas2023}.\\
+
+Las métricas de fidelidad, relevancia de la respuesta y relevancia del contexto son fundamentales para evaluar de manera efectiva los sistemas RAG. Estas métricas permiten detectar alucinaciones, asegurar que las respuestas se ajusten a las preguntas planteadas y optimizar la calidad de la información recuperada y utilizada en la generación de respuestas. El uso de estas métricas en la evaluación de sistemas RAG garantiza que se mantenga un alto nivel de precisión y relevancia en las respuestas generadas.
+
+Es importante señalar la necesidad de un LLM que actúe como \textbf{modelo juez} para poder automatizar estas métricas. Este modelo debe tener capacidad suficiente de razonamiento para llevar acabo esta evaluación. Además, hay que añadir que los resultados de las evaluaciones dependerán también de la fiabilidad del modelo juez elegido.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.55\textwidth]{figuras/capitulo5/llm_judge.png}
+\caption{Esquema de un LLM como modelo juez}
+\label{fig:llm_judge}
+\end{figure}
+
 \section{Conclusión}
 
 A lo largo de este capítulo, hemos explorado en profundidad los diversos tipos de \textit{retrievers} que potencian los sistemas de RAG. Hemos visto cómo los \textit{retrievers} no solo facilitan la recuperación de información relevante y actualizada, sino que también optimizan la eficiencia del procesamiento y la precisión de las respuestas generadas por los LLMs. La implementación adecuada de estos \textit{retrievers} puede marcar una diferencia significativa en la capacidad de un sistema RAG para proporcionar respuestas precisas, contextuales y de alta calidad.

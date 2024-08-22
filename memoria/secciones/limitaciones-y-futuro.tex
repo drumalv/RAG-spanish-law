@@ -4,3 +4,38 @@
 
 \chapter{Limitaciones y\\ Perspectivas de Futuro}
 \label{limitaciones-y-futuro}
+
+\section{Limitaciones}
+
+A pesar del éxito del sistema RAG desarrollado para la consulta de la Constitución Española, es importante destacar algunas limitaciones que podrían afectar su rendimiento y precisión. Estas limitaciones se dividen en aspectos relacionados con los modelos utilizados, la chunkerización del documento, y la implementación general del sistema.
+
+\subsection{Modelos LLM}
+El uso de modelos LLM como GPT-3.5-Turbo y GPT-4o implica una dependencia significativa de la calidad de los modelos subyacentes. Aunque se seleccionaron en base a su relación calidad-precio y rendimiento en benchmarks, estos modelos pueden generar respuestas erróneas o alucinaciones si el contexto proporcionado no es suficiente o si los fragmentos del documento no contienen la información necesaria. Además, su implementación vía API en plataformas en la nube, como Azure, introduce limitaciones relacionadas con la latencia y costos a gran escala.
+
+\subsection{Contexto y Complejidad Legal}
+La naturaleza compleja de los documentos legales representa un desafío adicional. La Constitución Española contiene un lenguaje técnico y referencias cruzadas a múltiples artículos y disposiciones. Aunque el sistema puede manejar preguntas directas, su capacidad para interpretar correctamente relaciones complejas o ambigüedades legales es limitada. El sistema RAG no sustituye el análisis detallado de expertos legales, y su uso debe restringirse a consultas básicas o de mediana complejidad.
+
+\subsection{Escalabilidad}
+El sistema desarrollado está orientado a responder preguntas sobre un documento específico, en este caso, la Constitución Española. Sin embargo, su capacidad de escalabilidad hacia otros textos legales, o incluso bases de conocimiento más amplias, está limitada por la estrategia de chunkerización aplicada y los recursos computacionales disponibles.
+
+\section{Perspectivas de Futuro}
+
+El desarrollo de este sistema abre numerosas posibilidades de mejora y expansión en el futuro. Las siguientes perspectivas pueden abordar las limitaciones actuales y ofrecer nuevas funcionalidades.
+
+\subsection{Mejora de Modelos LLM}
+A medida que evolucionen los modelos de lenguaje, se espera que surjan versiones más avanzadas con una mayor capacidad para comprender el contexto, reducir las alucinaciones y mejorar la precisión en la recuperación de información legal compleja. Incluir futuros modelos LLM con capacidades de razonamiento jurídico y procesamiento de texto legal específico será un paso importante para mejorar el sistema.
+
+\subsection{Chunkerización Dinámica}
+Una posible mejora es el desarrollo de un sistema de chunkerización dinámico, que pueda adaptar el tamaño de los fragmentos en función del tipo de consulta realizada. Este enfoque permitiría optimizar la relevancia de los chunks recuperados, asegurando que se proporcione el contexto más adecuado para cada tipo de pregunta, especialmente en textos legales complejos.
+
+\subsection{Integración con Bases de Conocimiento Jurídico}
+Ampliar el sistema a una base de conocimiento jurídica más extensa permitiría a los usuarios consultar múltiples normativas, códigos legales o jurisprudencias. Esto requeriría una integración eficiente con bases de datos legales, así como mejoras en la indexación y chunkerización de documentos para asegurar respuestas relevantes y completas en distintos ámbitos legales.
+
+\subsection{Optimización de la Infraestructura}
+Optimizar la infraestructura en la nube, o incluso migrar hacia entornos locales con capacidad para manejar modelos de lenguaje avanzados, podría mejorar la eficiencia del sistema. También se podría explorar el uso de soluciones híbridas que combinen el almacenamiento local y en la nube para reducir la latencia y los costos a gran escala.
+
+\subsection{Interfaz Multiplataforma}
+Una perspectiva de futuro interesante sería mejorar la interfaz para que sea accesible desde diversas plataformas (móvil, escritorio, web), ofreciendo una experiencia de usuario más fluida y versátil. Esto incluiría mejoras en la visualización del contexto, la capacidad de hacer seguimientos de preguntas anteriores, y la integración de funcionalidades como la búsqueda avanzada de documentos legales.
+
+\section{Conclusión}
+El sistema RAG implementado para la consulta de la Constitución Española representa un avance significativo en el uso de tecnologías de procesamiento del lenguaje natural para el ámbito legal. No obstante, tiene ciertas limitaciones inherentes a los modelos y técnicas actuales.

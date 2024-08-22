@@ -5,59 +5,59 @@ Reallocating 'name_of_file' (item size: 1) to 4 items.
 The style file: apa.bst
 Reallocating 'name_of_file' (item size: 1) to 13 items.
 Database file #1: bibliografia.bib
-Warning--entry type for "langchainretrievers" isn't style-file defined
---line 10 of file bibliografia.bib
-Warning--entry type for "cloudgirl2023rag" isn't style-file defined
---line 100 of file bibliografia.bib
-Warning--entry type for "datastax2023rag" isn't style-file defined
---line 107 of file bibliografia.bib
-Warning--entry type for "nvidia2023rag" isn't style-file defined
---line 113 of file bibliografia.bib
-Warning--entry type for "nanonets2023rag" isn't style-file defined
---line 119 of file bibliografia.bib
-Warning--to sort, need author or key in datastax2023rag
-Warning--to sort, need author or key in nvidia2023rag
-Warning--to sort, need author or key in nanonets2023rag
+Warning--entry type for "leadhugging" isn't style-file defined
+--line 142 of file bibliografia.bib
+Warning--to sort, need author or key in leadhugging
+Warning--empty journal in artificialanalysis
+Warning--empty journal in datacamp-eval
+Warning--empty journal in datastax2023rag
+Warning--empty journal in langchainretrievers
+Warning--empty journal in llamaindex-blog
+Warning--empty journal in nanonets2023rag
+Warning--empty journal in nvidia2023rag
+Warning--empty journal in openai
 Warning--can't use both volume and number fields in strubell2020energy
-You've used 16 entries,
+Warning--empty journal in vectorize-eval
+Warning--empty journal in cloudgirl2023rag
+You've used 23 entries,
             1940 wiz_defined-function locations,
-            544 strings with 6886 characters,
-and the built_in function-call counts, 7248 in all, are:
-= -- 656
-> -- 477
-< -- 5
-+ -- 180
-- -- 176
-* -- 685
-:= -- 1284
-add.period$ -- 42
-call.type$ -- 16
-change.case$ -- 165
-chr.to.int$ -- 16
-cite$ -- 23
-duplicate$ -- 227
-empty$ -- 382
-format.name$ -- 189
-if$ -- 1346
+            568 strings with 7999 characters,
+and the built_in function-call counts, 9422 in all, are:
+= -- 843
+> -- 556
+< -- 13
++ -- 204
+- -- 200
+* -- 850
+:= -- 1700
+add.period$ -- 57
+call.type$ -- 23
+change.case$ -- 212
+chr.to.int$ -- 23
+cite$ -- 36
+duplicate$ -- 330
+empty$ -- 536
+format.name$ -- 222
+if$ -- 1743
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 10
-newline$ -- 77
-num.names$ -- 39
-pop$ -- 158
+missing$ -- 21
+newline$ -- 106
+num.names$ -- 66
+pop$ -- 219
 preamble$ -- 1
-purify$ -- 165
+purify$ -- 212
 quote$ -- 0
-skip$ -- 184
+skip$ -- 272
 stack$ -- 0
-substring$ -- 365
-swap$ -- 52
+substring$ -- 447
+swap$ -- 60
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 96
-warning$ -- 4
-while$ -- 38
+type$ -- 138
+warning$ -- 12
+while$ -- 56
 width$ -- 0
-write$ -- 186
-(There were 9 warnings)
+write$ -- 260
+(There were 13 warnings)

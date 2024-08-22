@@ -1,16 +1,37 @@
 # Readme
 
-### Installation
+### Installation venv notebook
 
 ```bash
 python3.11 -m venv .venv
 source .venv/bin/activate
-pip install -r requirements.txt
+pip install -r code/requirements.txt
 ```
 
-install my own ragas
+## Streamlit app
+
+### Insllation venv
 
 ```bash
-git clone https://github.com/drumalv/ragas.git && cd ragas
-pip install -e .
+python3.11 -m venv .venv_streamlit
+source .venv_streamlit/bin/activate
+pip install -r code/app/requirements.txt
+```
+### Requirements
+
+.ven in code folder with:
+
+```
+export AZURE_OPENAI_ENDPOINT=
+export AZURE_OPENAI_API_KEY=
+export OPENAI_API_VERSION=
+export AZURE_GPT4TURBO_DEPLOYMENT=
+export AZURE_GPT3TURBO_DEPLOYMENT=
+export AZURE_ADA2_DEPLOYMENT=
+```
+### Exec streamlit
+
+```bash
+cd tfm
+streamlit run code/app/main.py --server.port 8051
 ```

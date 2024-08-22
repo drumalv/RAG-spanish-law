@@ -1,16 +1,14 @@
 \begin{thebibliography}{}
 
-\bibitem[\protect\astroncite{nan}{2023}]{nanonets2023rag}
- (2023).
-\newblock Building a retrieval-augmented generation (rag) app.
+\bibitem[\protect\astroncite{lea}{2024}]{leadhugging}
+ (2024).
+\newblock Leaderboard mteb huggingface,
+  https://huggingface.co/spaces/mteb/leaderboard.
 
-\bibitem[\protect\astroncite{nvi}{2023}]{nvidia2023rag}
- (2023).
-\newblock Rag 101: Retrieval-augmented generation questions answered.
-
-\bibitem[\protect\astroncite{dat}{2023}]{datastax2023rag}
- (2023).
-\newblock Retrieval-augmented generation (rag): A comprehensive guide.
+\bibitem[\protect\astroncite{Artificialanalysis}{2024}]{artificialanalysis}
+Artificialanalysis (2024).
+\newblock Independent analysis of ai models and api providers,
+  https://artificialanalysis.ai/.
 
 \bibitem[\protect\astroncite{Brown et~al.}{2022}]{brown2022does}
 Brown, H., Lee, K., Mireshghallah, F., Shokri, R., y Tram{\`e}r, F. (2022).
@@ -25,11 +23,26 @@ Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J.~D., Dhariwal, P.,
 \newblock {\em Advances in neural information processing systems},
   33:1877--1901.
 
+\bibitem[\protect\astroncite{DataCamp}{2023}]{datacamp-eval}
+DataCamp (2023).
+\newblock How to improve rag performance: 5 key techniques with examples,
+  https://www.datacamp.com/community/tutorials/improve-rag-performance-techniques.
+
+\bibitem[\protect\astroncite{datastax}{2023}]{datastax2023rag}
+datastax (2023).
+\newblock Retrieval-augmented generation (rag): A comprehensive guide,
+  https://www.datastax.com/.
+
 \bibitem[\protect\astroncite{Devlin et~al.}{2018}]{devlin2018bert}
 Devlin, J., Chang, M.-W., Lee, K., y Toutanova, K. (2018).
 \newblock Bert: Pre-training of deep bidirectional transformers for language
   understanding.
 \newblock {\em arXiv preprint arXiv:1810.04805}.
+
+\bibitem[\protect\astroncite{Es et~al.}{2023}]{ragas2023}
+Es, S., James, J., Espinosa-Anke, L., y Schockaert, S. (2023).
+\newblock Ragas: Automated evaluation of retrieval augmented generation.
+\newblock {\em arXiv preprint arXiv:2309.15217}.
 
 \bibitem[\protect\astroncite{Gao et~al.}{2023}]{gao2023retrieval}
 Gao, Y., Xiong, Y., Gao, X., Jia, K., Pan, J., Bi, Y., Dai, Y., Sun, J., y
@@ -39,7 +52,7 @@ Gao, Y., Xiong, Y., Gao, X., Jia, K., Pan, J., Bi, Y., Dai, Y., Sun, J., y
 
 \bibitem[\protect\astroncite{LangChain}{2024}]{langchainretrievers}
 LangChain (2024).
-\newblock Documentation for retriever modules.
+\newblock Documentation for retriever modules https://python.langchain.com.
 
 \bibitem[\protect\astroncite{Lewis et~al.}{2020}]{lewis2020retrieval}
 Lewis, P., Perez, E., Piktus, A., Petroni, F., Karpukhin, V., Goyal, N.,
@@ -53,11 +66,30 @@ Liu, N.~F., Lin, K., Hewitt, J., Paranjape, A., Bevilacqua, M., Petroni, F., y
   Liang, P. (2023).
 \newblock Lost in the middle: How language models use long contexts.
 
+\bibitem[\protect\astroncite{LlamaIndex}{2023}]{llamaindex-blog}
+LlamaIndex (2023).
+\newblock Evaluating the ideal chunk size for a rag system using llamaindex,
+  https://www.llamaindex.ai/blog/evaluating-the-ideal-chunk-size-for-a-rag-system-using-llamaindex-6207e5d3fec5.
+
+\bibitem[\protect\astroncite{Nanonets}{2023}]{nanonets2023rag}
+Nanonets (2023).
+\newblock Building a retrieval-augmented generation (rag) app,
+  https://nanonets.com/.
+
 \bibitem[\protect\astroncite{Naveed et~al.}{2023}]{naveed2023comprehensive}
 Naveed, H., Khan, A.~U., Qiu, S., Saqib, M., Anwar, S., Usman, M., Barnes, N.,
   y Mian, A. (2023).
 \newblock A comprehensive overview of large language models.
 \newblock {\em arXiv preprint arXiv:2307.06435}.
+
+\bibitem[\protect\astroncite{Nvidia}{2023}]{nvidia2023rag}
+Nvidia (2023).
+\newblock Rag 101: Retrieval-augmented generation questions answered,
+  https://developer.nvidia.com/.
+
+\bibitem[\protect\astroncite{OpenAI}{2024}]{openai}
+OpenAI (2024).
+\newblock Openai documentation, https://openai.com/.
 
 \bibitem[\protect\astroncite{Raffel et~al.}{2020}]{raffel2020exploring}
 Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., Zhou,
@@ -78,9 +110,15 @@ Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A.~N.,
 \newblock Attention is all you need.
 \newblock {\em Advances in neural information processing systems}, 30.
 
+\bibitem[\protect\astroncite{Vectorize.io}{2023}]{vectorize-eval}
+Vectorize.io (2023).
+\newblock Evaluating the ideal chunk size for a rag system,
+  https://www.vectorize.io/blog/evaluating-the-ideal-chunk-size-for-a-rag-system.
+
 \bibitem[\protect\astroncite{Vergadia}{2023}]{cloudgirl2023rag}
 Vergadia, P. (2023).
-\newblock The secret sauce of rag: Vector search and embeddings.
+\newblock The secret sauce of rag: Vector search and embeddings,
+  https://www.thecloudgirl.dev/.
 
 \bibitem[\protect\astroncite{Zhang et~al.}{2023}]{zhang2023siren}
 Zhang, Y., Li, Y., Cui, L., Cai, D., Liu, L., Fu, T., Huang, X., Zhao, E.,

@@ -33,7 +33,7 @@
 \usepackage{newtxmath}
 \usepackage{stmaryrd}
 \usepackage{bbold}
-\usepackage[ruled,vlined]{algorithm2e}
+\usepackage[linesnumbered,ruled,vlined]{algorithm2e}
 \usepackage{algorithmic}
 \usepackage{float}
 \usepackage{url}
@@ -47,6 +47,10 @@
 \usepackage{placeins}
 \usepackage{flafter}
 \usepackage{ dsfont }
+\usepackage{rotating}
+\usepackage{subcaption}
+\usepackage{listings}
+
 
 \theoremstyle{definition}
 \newtheorem{definition}{Teorema}[section]
@@ -115,6 +119,7 @@
 \setcitestyle{authoryear}
 
 \usepackage[pdftex,plainpages=false,pdfpagelabels]{hyperref}
+\usepackage{csquotes}
 
 \hypersetup{
     linktocpage=true,
@@ -176,24 +181,22 @@
 
 %\input{secciones/resumen.tex}
 \input{secciones/introduccion.tex}
-%\input{secciones/objetivos.tex}
+\input{secciones/objetivos.tex}
 %\input{secciones/metodologia.tex}
 \input{secciones/capitulo1.tex}
 \input{secciones/capitulo2.tex}
 \input{secciones/capitulo4.tex}
 \input{secciones/capitulo5.tex}
+\input{secciones/capitulo6.tex}
 %\input{secciones/resultados-y-discusion.tex}
-%\input{secciones/conclusiones.tex}
-%\input{secciones/limitaciones-y-futuro.tex}
+\input{secciones/conclusiones.tex}
+\input{secciones/limitaciones-y-futuro.tex}
 
 \cleardoublepage
 \phantomsection
 
-\printglossary[type=\acronymtype]
-\printglossary
-
-%\appendix
-%\input{secciones/apendizes.tex}
+\appendix
+\input{secciones/apendizes.tex}
 
 \begin{singlespace}
 \begin{footnotesize}

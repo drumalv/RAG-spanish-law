@@ -97,6 +97,27 @@ Esta estrategia se implementa mediante la transformación de texto en representa
 \subsubsection{Desafíos y Aplicaciones}
 A pesar de su efectividad, enfrenta desafíos como la alta demanda computacional y la dificultad en determinar umbrales de similitud óptimos. Su aplicación es ideal en sistemas de búsqueda semántica y en el análisis de textos complejos en contextos académicos o de investigación.
 
+\section{Evaluación de los chunks}
+
+La selección del tamaño de chunk adecuado es un paso fundamental para optimizar el rendimiento de los sistemas de Recuperación Aumentada por Generación (RAG). El tamaño del chunk influye directamente en la calidad de la información recuperada y, por lo tanto, en la precisión y relevancia de las respuestas generadas por el modelo. En esta sección, explicaremos los aspectos clave de la evaluación del tamaño de los chunks y cómo afecta al rendimiento de un sistema RAG utilizando LlamaIndex, una librería diseñada para optimizar este tipo de sistemas.
+
+\subsection{Impacto del Tamaño del Chunk en el Rendimiento del Sistema}
+El tamaño del chunk determina la granularidad de la información capturada durante el proceso de recuperación, lo que afecta la precisión y relevancia de las respuestas generadas. Chunk sizes pequeños, como 256 tokens, tienden a ser más detallados y contextualmente relevantes, lo que puede mejorar la alineación de las respuestas con las consultas del usuario. Sin embargo, si el chunk es demasiado pequeño, puede ocurrir que información crítica no esté contenida en los segmentos recuperados, lo que afectaría la completitud de la respuesta \citep{llamaindex-blog}.
+
+Por otro lado, tamaños de chunks más grandes, como 512 o 1024 tokens, proporcionan un contexto más amplio pero corren el riesgo de incluir información irrelevante, lo que puede sobrecargar el sistema y disminuir la precisión de las respuestas. Este balance entre granularidad y contexto es crucial para garantizar que el sistema RAG recupere la información más relevante de manera eficiente \citep{datacamp-eval}.
+
+\subsection{Evaluación Cuantitativa y Cualitativa del Tamaño de los Chunks}
+Para determinar el tamaño óptimo del chunk, se utilizan tanto técnicas de evaluación cuantitativa como cualitativa. Las técnicas cuantitativas consisten en variar sistemáticamente el tamaño de los chunks y medir métricas como la precisión, la relevancia y la calidad de las respuestas. En experimentos típicos, se calculan métricas como el tiempo de respuesta promedio, la fe en la fidelidad de las respuestas (\textit{faithfulness}) y la relevancia (\textit{relevancy}) con respecto a las consultas \citep{vectorize-eval}. Estos datos permiten obtener medidas objetivas sobre cómo diferentes tamaños de chunks impactan en el rendimiento del sistema.
+
+Por otro lado, la evaluación cualitativa implica la participación de jueces humanos que califican la calidad de las respuestas generadas. Factores como la coherencia, la naturalidad y la adecuación al contexto son considerados.
+
+\subsection{Balance entre Precisión y Eficiencia Computacional}
+Uno de los desafíos clave en la selección del tamaño de chunk es encontrar un equilibrio entre precisión y eficiencia computacional. Chunks más grandes pueden requerir más recursos computacionales y tiempo de procesamiento, lo que podría afectar la velocidad de respuesta del sistema, especialmente en aplicaciones en tiempo real, como chatbots o asistentes virtuales. Por el contrario, chunks más pequeños pueden ser más eficientes pero requerirán consultas de recuperación más frecuentes, lo que aumenta la sobrecarga computacional \citep{vectorize-eval}.
+
+Este balance entre precisión y eficiencia es esencial para garantizar que el sistema RAG funcione de manera óptima dentro de las limitaciones computacionales. La selección cuidadosa del tamaño de chunk y su evaluación en función de los requisitos específicos del sistema y el dominio del problema son pasos críticos para lograr un rendimiento adecuado.\\
+
+
+La evaluación del tamaño de los chunks es un proceso clave para optimizar los sistemas RAG. Mediante el uso de técnicas de evaluación cuantitativa y cualitativa, es posible determinar el tamaño óptimo que maximiza la relevancia y precisión de las respuestas, al tiempo que minimiza los costos computacionales. Adaptar el tamaño de chunk a las necesidades específicas del sistema y del dominio asegura un mejor rendimiento general del sistema \citep{llamaindex-blog,datacamp-eval}.
 
 \section{Conclusiones}
 La chunkerización es fundamental para mejorar la eficiencia y precisión en aplicaciones relacionadas con LLM. No existe una solución única para todos los casos, por lo que es crucial evaluar cada situación individualmente para encontrar la estrategia más efectiva.

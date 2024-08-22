@@ -1,3 +1,4 @@
 code/vector_stores/*
 .venv
 .env
+.venv_streamlit

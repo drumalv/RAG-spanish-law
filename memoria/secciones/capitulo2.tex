@@ -47,6 +47,24 @@ Una vez creados, estos vectores se almacenan en bases de datos vectoriales espec
 
 \textbf{Almacenamiento y Procesamiento de los Embeddings}: Para maximizar la eficiencia, los \textit{embeddings} se almacenan en bases de datos vectoriales optimizadas para la búsqueda y recuperación de datos en espacios de alta dimensión. Esto permite que el sistema de RAG maneje grandes volúmenes de información de manera eficiente, ofreciendo respuestas precisas basadas en datos externos relevantes que enriquecen la salida generada por los LLMs \cite{nanonets2023rag}.
 
+\begin{figure}[h]
+    \centering
+    \begin{subfigure}[b]{0.45\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{figuras/capitulo2/vectors-3.png}
+        \label{fig:rag1}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[b]{0.45\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{figuras/capitulo2/vectors-2.png}
+        \label{fig:rag2}
+    \end{subfigure}
+    \caption{Ejemplos de embeddings. \citep{openai}}
+    \label{fig:embeddigns}
+\end{figure}
+
+
 En resumen, los \textit{embeddings} son la columna vertebral del sistema de recuperación en RAG, permitiendo que los modelos de lenguaje accedan a información relevante de manera eficiente, lo que resulta en respuestas más precisas y contextualmente ricas \cite{cloudgirl2023rag, nvidia2023rag}.
 
 
