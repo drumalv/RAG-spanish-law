@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.16)  22 AUG 2024 19:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.16)  26 AUG 2024 16:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1500,20 +1500,14 @@ File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 ) (memoria.aux
 LaTeX Info: Redefining \. on input line 31.
 LaTeX Info: Redefining \% on input line 31.
-
-
-LaTeX Warning: Label `fig:llm_evolution' multiply defined.
-
-
-LaTeX Warning: Label `fig:llm_evolution' multiply defined.
-
 )
 \openout1 = `memoria.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 142.
 LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line
  142.
- (C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/newtx\omlntxmi.fd
+
+(C:\Users\alvar\AppData\Local\Programs\MiKTeX\tex/latex/newtx\omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
 LaTeX Font Info:    ... okay on input line 142.
@@ -2692,17 +2686,14 @@ L3 programming layer <2023-08-29>
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.18pt have occurred.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `memoria.out' has not changed.
-(rerunfilecheck)             Checksum: 0BB0FDBBBC7CAD27189948665966FDD7;8020.
+(rerunfilecheck)             Checksum: 9631C92F62EA7369B242C035EC375A5A;8020.
  ) 
 Here is how much of TeX's memory you used:
- 39700 strings out of 475248
- 721752 string characters out of 5757813
+ 39702 strings out of 475248
+ 721770 string characters out of 5757813
  1941801 words of memory out of 5000000
- 60148 multiletter control sequences out of 15000+600000
+ 60150 multiletter control sequences out of 15000+600000
  657817 words of font info for 143 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  94i,18n,131p,2265b,1247s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2717,7 +2708,7 @@ ts/type1/public/txfonts/t1xtt.pfb><C:/Users/alvar/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/txfonts/t1xtt.pfb><C:/Users/alvar/AppData/Local/Programs/Mi
 KTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/alvar/AppData/Local/Programs/
 MiKTeX/fonts/type1/public/newtx/ztmr.pfb>
-Output written on memoria.pdf (60 pages, 3077488 bytes).
+Output written on memoria.pdf (60 pages, 3077486 bytes).
 PDF statistics:
  1010 PDF objects out of 1200 (max. 8388607)
  256 named destinations out of 1000 (max. 500000)

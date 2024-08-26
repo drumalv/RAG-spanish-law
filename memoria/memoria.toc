@@ -113,5 +113,5 @@
 \contentsline {subsection}{\numberline {9.2.4}Optimización de la Infraestructura}{50}{subsection.9.2.4}%
 \contentsline {subsection}{\numberline {9.2.5}Interfaz Multiplataforma}{50}{subsection.9.2.5}%
 \contentsline {section}{\numberline {9.3}Conclusión}{51}{section.9.3}%
-\contentsline {chapter}{\numberline {A}Apéndize A}{53}{appendix.Alph1}%
+\contentsline {chapter}{\numberline {A}Apéndice A}{53}{appendix.Alph1}%
 \contentsline {chapter}{Bibliografía}{54}{appendix*.34}%
