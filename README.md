@@ -28,7 +28,7 @@ En este trabajo se emplea la **Constitución Española** como caso de estudio pa
 
 ## Diagrama de Arquitectura
 
-![Diagrama arquitectura]("memoria\figuras\capitulo6\arquitectura.png")
+![Diagrama arquitectura]("memoria/figuras/capitulo6/arquitectura.png")
 
 
 ## Resultados Esperados
