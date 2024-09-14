@@ -24,6 +24,12 @@ En este trabajo se emplea la **Constitución Española** como caso de estudio pa
 - **Chunkerización:** Se implementan y evalúan varias estrategias para mejorar la gestión de grandes volúmenes de información.
 - **Retrievers:** Uso de técnicas de recuperación avanzadas para aumentar la relevancia y precisión de las respuestas.
 - **Embedding Models:** Para transformar fragmentos del documento en vectores que permitan la recuperación semántica de la información.
+- **Evaluación de las metodologías de chunkerización usadas:** Se ha usado la librería llamaindex para eso.
+
+## Diagrama de Arquitectura
+
+![Diagrama arquitectura]("memoria\figuras\capitulo6\arquitectura.png")
+
 
 ## Resultados Esperados
 
